@@ -1,0 +1,15 @@
+{
+  "address": "6205 Espinosa Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Richard",
+  "ownerLastName": "Rodriguez",
+  "mailingAddress": "5438 Alfred Dr",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-6022e5278e1474b1e30f389e3308108cfabb3152",
+  "tags": "absentee,foreclosure,free-clear",
+  "ownertype": "NONE"
+}

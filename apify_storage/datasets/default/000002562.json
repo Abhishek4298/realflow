@@ -1,0 +1,15 @@
+{
+  "address": "5301 Your Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Larry",
+  "ownerLastName": "Radcliffe",
+  "mailingAddress": "18233 N 103Rd Ave",
+  "mailingCity": "Sun City",
+  "mailingState": "AZ",
+  "mailingZipCode": "85373",
+  "addressHash": "HA7-cb40138ac2ffae9142b019952a35312268b477e5",
+  "tags": "absentee,high-equity,ai-high",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "1224 Purple Sage Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Chuck",
+  "ownerLastName": "Zoellner",
+  "mailingAddress": "7460 Woodrow Wilson Dr",
+  "mailingCity": "Los Angeles",
+  "mailingState": "CA",
+  "mailingZipCode": "90046",
+  "addressHash": "HA7-7c7bfc41a7f64168a605aad2fb73357c7d195c11",
+  "tags": "absentee,bored-investor,vacancy",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "1517 Sapphire Springs Cir",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Jack",
+  "ownerLastName": "Campbell",
+  "mailingAddress": "17652 Delano St",
+  "mailingCity": "Encino",
+  "mailingState": "CA",
+  "mailingZipCode": "91316",
+  "addressHash": "HA7-ce2750ecdc79e3b70d12878ad6dff76e30c0e832",
+  "tags": "absentee,bored-investor",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "3545 Trilogy Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Roger",
+  "ownerLastName": "Pharr",
+  "mailingAddress": "3525 Kingbird Dr",
+  "mailingCity": "North Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89084",
+  "addressHash": "HA7-575eea185764797c92ef0e5e903c83ed123a1111",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

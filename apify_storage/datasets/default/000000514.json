@@ -1,0 +1,15 @@
+{
+  "address": "6549 Deadwood Rd",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Wong Family Trust",
+  "ownerLastName": "",
+  "mailingAddress": "2021 Pebble Ct",
+  "mailingCity": "Monterey Park",
+  "mailingState": "CA",
+  "mailingZipCode": "91754",
+  "addressHash": "HA7-1afa1713299ea99c0663eb33ff6dc53f80ce1276",
+  "tags": "absentee,free-clear",
+  "ownertype": "TRUST"
+}

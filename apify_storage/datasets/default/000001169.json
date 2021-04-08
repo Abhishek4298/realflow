@@ -1,0 +1,15 @@
+{
+  "address": "2332 Valley Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Rachel",
+  "ownerLastName": "Murray",
+  "mailingAddress": "1202 E 124Th St",
+  "mailingCity": "Los Angeles",
+  "mailingState": "CA",
+  "mailingZipCode": "90059",
+  "addressHash": "HA7-23fba94c9c5d0c93220c8dcd3f912490024fd3f5",
+  "tags": "absentee,bored-investor",
+  "ownertype": "NONE"
+}

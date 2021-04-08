@@ -1,0 +1,15 @@
+{
+  "address": "6209 Espinosa Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Jeremy",
+  "ownerLastName": "Manriquez",
+  "mailingAddress": "1421 Sapphire Springs Cir",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-325731a2b18c1e8ad6191bc5fe680aa5db22d7b5",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

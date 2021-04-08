@@ -1,0 +1,15 @@
+{
+  "address": "1344 Pyramid Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Leonardo",
+  "ownerLastName": "Jimenez",
+  "mailingAddress": "Po Box 43274",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89116",
+  "addressHash": "HA7-d23a149c951d2d731d0543992c796b0886c249da",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

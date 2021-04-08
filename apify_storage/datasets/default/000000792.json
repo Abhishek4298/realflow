@@ -1,0 +1,15 @@
+{
+  "address": "6625 Genevieve Ct",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Howard",
+  "ownerLastName": "Chan",
+  "mailingAddress": "238 W Camino Real Ave",
+  "mailingCity": "Arcadia",
+  "mailingState": "CA",
+  "mailingZipCode": "91007",
+  "addressHash": "HA7-907f92dfb2aea947472aacbd8cb71cf8d2cc343b",
+  "tags": "absentee,free-clear,potentially-inherited",
+  "ownertype": "NONE"
+}

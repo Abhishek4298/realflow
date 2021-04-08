@@ -1,0 +1,15 @@
+{
+  "address": "1637 N Michael Way",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Jason",
+  "ownerLastName": "Parkinson",
+  "mailingAddress": "6733 Bremerton Cir",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89107",
+  "addressHash": "HA7-0cc5c7dfd15e8e741ff9dd6dc39128ac34191db9",
+  "tags": "absentee,bored-investor",
+  "ownertype": "NONE"
+}

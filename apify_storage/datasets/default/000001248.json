@@ -1,0 +1,15 @@
+{
+  "address": "1928 Harvest Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Mary",
+  "ownerLastName": "Levesque",
+  "mailingAddress": "8 Horse Peak",
+  "mailingCity": "Santa Fe",
+  "mailingState": "NM",
+  "mailingZipCode": "87508",
+  "addressHash": "HA7-f78bf3900dc151569decc4a3c5282377402b3678",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "2700 N Rainbow Blvd Apt 1097",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "David",
+  "ownerLastName": "Conlin",
+  "mailingAddress": "146 N Elm St # 12",
+  "mailingCity": "Arroyo Grande",
+  "mailingState": "CA",
+  "mailingZipCode": "93420",
+  "addressHash": "HA7-c3cc2dc6ea921c7899b28f911c4319d8ddabc2cd",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

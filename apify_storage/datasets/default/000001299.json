@@ -1,0 +1,15 @@
+{
+  "address": "1504 Canyon Rose Way",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Mary",
+  "ownerLastName": "Belcher",
+  "mailingAddress": "1504 Canyon Rose Way",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-7562115298178cd3e00de0952e1b6a964f1b2524",
+  "tags": "free-clear,potentially-inherited",
+  "ownertype": "NONE"
+}

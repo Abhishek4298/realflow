@@ -1,0 +1,15 @@
+{
+  "address": "4013 Morman Ln",
+  "city": "Addison",
+  "state": "TX",
+  "zipCode": "75001",
+  "ownerFirstName": "Kelley",
+  "ownerLastName": "Wismer",
+  "mailingAddress": "3441 Hanover St",
+  "mailingCity": "Dallas",
+  "mailingState": "TX",
+  "mailingZipCode": "75225",
+  "addressHash": "HA7-d18aa8e6f3679434bcab4df13903b966eb773472",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

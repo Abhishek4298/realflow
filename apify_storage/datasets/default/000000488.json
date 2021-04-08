@@ -1,0 +1,15 @@
+{
+  "address": "3013 N Michael Way",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Thomas",
+  "ownerLastName": "Coronado",
+  "mailingAddress": "3013 N Michael Way",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-4e8f507fd05ed8420eb047201236588f0620d9fa",
+  "tags": "free-clear,potentially-inherited",
+  "ownertype": "NONE"
+}

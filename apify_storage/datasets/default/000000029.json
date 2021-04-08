@@ -1,0 +1,15 @@
+{
+  "address": "5015 Meridian Ln # 3-3102",
+  "city": "Addison",
+  "state": "TX",
+  "zipCode": "75001",
+  "ownerFirstName": "Ricardo",
+  "ownerLastName": "Buderacky",
+  "mailingAddress": "5015 Meridian Ln Unit 3102",
+  "mailingCity": "Addison",
+  "mailingState": "TX",
+  "mailingZipCode": "75001",
+  "addressHash": "HA7-2b12d31a198c6a49e480ba47c676ed9e81657a33",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

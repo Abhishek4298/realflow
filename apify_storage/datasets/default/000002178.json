@@ -1,0 +1,15 @@
+{
+  "address": "1105 Date St",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Jose",
+  "ownerLastName": "Gonzalez",
+  "mailingAddress": "122 N San Gabriel Ave",
+  "mailingCity": "Azusa",
+  "mailingState": "CA",
+  "mailingZipCode": "91702",
+  "addressHash": "HA7-47b95a3d8ea108baa23f159f731480ea3eeb181e",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

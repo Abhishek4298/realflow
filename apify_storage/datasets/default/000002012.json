@@ -1,0 +1,15 @@
+{
+  "address": "1850 Willow Trl",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Kirk Family Trust",
+  "ownerLastName": "",
+  "mailingAddress": "812 Gypsum Ct",
+  "mailingCity": "Boulder City",
+  "mailingState": "NV",
+  "mailingZipCode": "89005",
+  "addressHash": "HA7-f8c987407d724d9ea4d6175bdb1284c0854274e2",
+  "tags": "absentee,bored-investor,high-equity",
+  "ownertype": "TRUST"
+}

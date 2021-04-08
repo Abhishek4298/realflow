@@ -1,0 +1,15 @@
+{
+  "address": "4624 Sawyer Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Patricia",
+  "ownerLastName": "Moore",
+  "mailingAddress": "4624 Sawyer Ave",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-e69260a6ce3263e9ef17efea73a3010078a46449",
+  "tags": "potentially-inherited",
+  "ownertype": "NONE"
+}

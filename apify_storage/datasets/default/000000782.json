@@ -1,0 +1,15 @@
+{
+  "address": "5905 Edrene Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Justin",
+  "ownerLastName": "Rea",
+  "mailingAddress": "5900 W Tropicana Ave Trlr 195",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89103",
+  "addressHash": "HA7-256b27f124a30a419b3ff81ea3c39c4d41b605f3",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

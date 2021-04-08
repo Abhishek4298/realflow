@@ -1,0 +1,15 @@
+{
+  "address": "2204 Silver Pine Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Teresa",
+  "ownerLastName": "Jasso",
+  "mailingAddress": "7517 Muller St",
+  "mailingCity": "Downey",
+  "mailingState": "CA",
+  "mailingZipCode": "90241",
+  "addressHash": "HA7-6da32a93ede8a36bbd4ea2a40449664f16e14869",
+  "tags": "absentee,free-clear",
+  "ownertype": "NONE"
+}

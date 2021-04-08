@@ -1,0 +1,15 @@
+{
+  "address": "2509 Lakeside Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Jennifer",
+  "ownerLastName": "Lopez",
+  "mailingAddress": "1848 Ridgefield Dr",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-7c57e2906f5d9199d3ea4e4b1ea267c09f92a116",
+  "tags": "absentee,free-clear",
+  "ownertype": "NONE"
+}

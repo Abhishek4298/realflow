@@ -1,0 +1,15 @@
+{
+  "address": "4116 Broadriver Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Francisco",
+  "ownerLastName": "Alvarez",
+  "mailingAddress": "4116 Broadriver Dr",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-97a3f7553ae0c715c93e1091ca484a0ab2df6919",
+  "tags": "potentially-inherited",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "4508 Mark Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "",
+  "ownerLastName": "Ceron",
+  "mailingAddress": "4508 Mark Ave",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-4fd30ca20ea66bb5cb824084f00b36779434f944",
+  "tags": "potentially-inherited",
+  "ownertype": "NONE"
+}

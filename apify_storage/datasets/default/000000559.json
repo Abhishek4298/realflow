@@ -1,0 +1,15 @@
+{
+  "address": "5016 Your Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Pedro",
+  "ownerLastName": "Hernandez",
+  "mailingAddress": "8612 Raindrop Canyon Ave",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89129",
+  "addressHash": "HA7-ad4fd134ea98a0245b369a23e968f24569492a51",
+  "tags": "absentee,bored-investor",
+  "ownertype": "NONE"
+}

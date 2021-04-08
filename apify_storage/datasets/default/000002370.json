@@ -1,0 +1,15 @@
+{
+  "address": "2357 Wooster Cir Unit A",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Brian",
+  "ownerLastName": "Lai",
+  "mailingAddress": "2357 Wooster Cir",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-a93c26e5eb662f92b25fe4c7e0af6916d53c6864",
+  "tags": "absentee,bored-investor",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "1820 Cypress Trl",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Jerry",
+  "ownerLastName": "Johnson",
+  "mailingAddress": "8201 Boseck Dr",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89145",
+  "addressHash": "HA7-a920cb162b240e88f920727db6671625f83e7e6d",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

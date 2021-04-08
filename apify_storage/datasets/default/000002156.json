@@ -1,0 +1,15 @@
+{
+  "address": "4121 Overbrook Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Mark",
+  "ownerLastName": "Rogers",
+  "mailingAddress": "15620 S Normandie Ave Apt C",
+  "mailingCity": "Gardena",
+  "mailingState": "CA",
+  "mailingZipCode": "90247",
+  "addressHash": "HA7-029f1a63c33842db3223cd34d3aff4a30a2a8c2b",
+  "tags": "absentee,bored-investor,ai-high",
+  "ownertype": "NONE"
+}

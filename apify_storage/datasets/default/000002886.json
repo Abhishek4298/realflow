@@ -1,0 +1,15 @@
+{
+  "address": "1849 Runningbear Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Austin",
+  "ownerLastName": "Mapp",
+  "mailingAddress": "2005 De Osma St",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89102",
+  "addressHash": "HA7-e32a57829e7d39b9d8b8e73ab3cf192c67a53242",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

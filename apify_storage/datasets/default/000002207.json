@@ -1,0 +1,15 @@
+{
+  "address": "1204 Silver Lake Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Miguel",
+  "ownerLastName": "Alejandro",
+  "mailingAddress": "1204 Silver Lake Dr",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-b4e94a5e1176609dd5f8e1374bd323fb3ddf0951",
+  "tags": "low-equity,pre-foreclosure",
+  "ownertype": "NONE"
+}

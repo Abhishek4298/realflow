@@ -1,0 +1,15 @@
+{
+  "address": "1401 N Michael Way Apt 142",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Teresa",
+  "ownerLastName": "Korhonen",
+  "mailingAddress": "1401 N Michael Way # E142",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-1877dce1caa74fbc6425594d60002cccb49d3a7b",
+  "tags": "absentee,bored-investor",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "4001 Miramia Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Selina",
+  "ownerLastName": "Jones",
+  "mailingAddress": "160 N Spanish Trail Dr",
+  "mailingCity": "Veyo",
+  "mailingState": "UT",
+  "mailingZipCode": "84782",
+  "addressHash": "HA7-6e519f6dcb02c55afd8415100d4609b37fd7b654",
+  "tags": "absentee,bored-investor",
+  "ownertype": "NONE"
+}

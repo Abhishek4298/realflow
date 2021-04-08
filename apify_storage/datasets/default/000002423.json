@@ -1,0 +1,15 @@
+{
+  "address": "2440 Valparaiso St",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Charles",
+  "ownerLastName": "Reed",
+  "mailingAddress": "4531 G St",
+  "mailingCity": "San Diego",
+  "mailingState": "CA",
+  "mailingZipCode": "92102",
+  "addressHash": "HA7-742c8e74d3cbfee08f6d01d1b8e1dc70eb083738",
+  "tags": "absentee,bored-investor",
+  "ownertype": "NONE"
+}

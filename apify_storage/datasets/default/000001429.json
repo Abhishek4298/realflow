@@ -1,0 +1,15 @@
+{
+  "address": "1428 Canyon Rose Way",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Brian",
+  "ownerLastName": "Fitzgerald",
+  "mailingAddress": "1530 Mimosa Ln",
+  "mailingCity": "Santa Barbara",
+  "mailingState": "CA",
+  "mailingZipCode": "93108",
+  "addressHash": "HA7-c92a8ca470e28255b4d083777c68cd200404debc",
+  "tags": "absentee,free-clear",
+  "ownertype": "NONE"
+}

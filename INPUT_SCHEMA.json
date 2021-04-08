@@ -1,0 +1,110 @@
+{
+    "title": "Realeflow scraper input schema",
+    "type": "object",
+    "schemaVersion": 1,
+    "properties": {
+        "location": {
+            "title": "where",
+            "type": "array",
+            "editor": "stringList",
+            "description": "Please insert zipcode,city,county or address"
+        },
+        "version": {
+            "title": "LeadTypes",
+            "type": "string",
+            "default": " ",
+            "description": "LeadTypes",
+            "enum": [
+                "version1",
+                "version2"
+            ],
+            "enumTitles": [
+                "Version 1 Lead Types (Distressed Owners)",
+                " "
+            ],
+            "editor": "select"
+        },
+        "propertyTypes": {
+            "title": "propertyTypes",
+            "type": "array",
+            "editor": "stringList",
+            "description": "propertyTypes",
+            "prefill": [
+                "Condo",
+                "Town Home",
+                "Multi Family",
+                "5+ Apartment",
+                "Other",
+                "Single Family"
+            ]
+        },
+        "squareFeetMin": {
+            "title": "SQFT (min)",
+            "type": "integer",
+            "description": "Min SQFT",
+            "editor": "number"
+        },
+        "squareFeetMax": {
+            "title": "SQFT (max)",
+            "type": "integer",
+            "description": "Max SQFT"
+        },
+        "bathroomMin": {
+            "title": "Bathrooms (min)",
+            "type": "integer",
+            "description": "Min # of Bathrooms",
+            "prefill": 1,
+            "editor": "number"
+        },
+        "lastSaleDateMin": {
+            "title": "Last Sale Date(Minimum)",
+            "type": "string",
+            "description": "Minimum Last Sale Date",
+            "editor": "textfield"
+        },
+        "lastSaleDateMax": {
+            "title": "Last Sale Date(Maximum)",
+            "type": "string",
+            "description": "Maximum Last Sale Date",
+            "editor": "textfield"
+        },
+        "loanToValueMax": {
+            "title": "Equity (max)",
+            "type": "integer",
+            "description": "Equity value (%)",
+            "editor": "number"
+        },
+        "propertyValueMin": {
+            "title": "Property Value (min)",
+            "type": "integer",
+            "description": "Minimum price of property",
+            "editor": "number"
+        },
+        "propertyValueMax": {
+            "title": "Property Value (max)",
+            "type": "integer",
+            "description": "Maximum price of property",
+            "editor": "number"
+        },
+        "apiKey": {
+            "title": "App.GoForClose API Key",
+            "type": "string",
+            "description": "API Key for app.goforclose. If provided, data will automatically be synced to d.gfc",
+            "editor": "textfield"
+        },
+        "tag": {
+            "title": "D.GFC Tag",
+            "type": "string",
+            "description": "Tag to add when submitting to d.gfc",
+            "editor": "textfield"
+        },
+        "blankSalesDates": {
+            "title": "Blank sales dates",
+            "type": "boolean",
+            "default": true,
+            "prefill": true,
+            "description": "include blank dates",
+            "editor": "number"
+        }
+    }
+}

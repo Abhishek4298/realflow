@@ -1,0 +1,15 @@
+{
+  "address": "6545 Romance Cir",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Mary",
+  "ownerLastName": "Mcneal",
+  "mailingAddress": "7404 Delicious Ct",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89149",
+  "addressHash": "HA7-ae8364d3ef16079107138420b8714938787e4964",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

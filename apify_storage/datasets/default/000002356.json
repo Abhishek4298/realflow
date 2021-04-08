@@ -1,0 +1,15 @@
+{
+  "address": "2401 Camelia Cir",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Blanca",
+  "ownerLastName": "Espinoza",
+  "mailingAddress": "2508 Lakeside Dr",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-207aae41ae41c4da72fd12b6de67911322378815",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

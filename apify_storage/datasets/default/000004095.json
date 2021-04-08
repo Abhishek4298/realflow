@@ -1,0 +1,15 @@
+{
+  "address": "6416 Pearcrest Rd",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Hoover",
+  "ownerLastName": "Burroughs",
+  "mailingAddress": "6416 Pearcrest Rd",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-9cf12b8e906f0476f6872ace87a4e6366422b114",
+  "tags": "upside-down,vacancy",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "6235 Cambria Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Estela",
+  "ownerLastName": "Ramirez",
+  "mailingAddress": "1140 Carefree Peak Ct",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89110",
+  "addressHash": "HA7-edcbdfea73eafcf75ea72c9bb500a7cfb3e0956b",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

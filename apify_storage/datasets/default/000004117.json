@@ -1,0 +1,15 @@
+{
+  "address": "3929 Dream St",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Joel",
+  "ownerLastName": "Hernandez",
+  "mailingAddress": "1302 Grandhaven St",
+  "mailingCity": "Salinas",
+  "mailingState": "CA",
+  "mailingZipCode": "93905",
+  "addressHash": "HA7-a19085a81329326a04dae30127b2b4fadd66b906",
+  "tags": "absentee,bored-investor,low-equity",
+  "ownertype": "NONE"
+}

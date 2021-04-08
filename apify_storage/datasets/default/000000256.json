@@ -1,0 +1,15 @@
+{
+  "address": "6213 Caprino Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Mita",
+  "ownerLastName": "Palma",
+  "mailingAddress": "2204 Keller Ct",
+  "mailingCity": "North Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89032",
+  "addressHash": "HA7-e3a64b4d0335e524226a0d886f6347e9e6e33377",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

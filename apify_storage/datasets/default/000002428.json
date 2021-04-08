@@ -1,0 +1,15 @@
+{
+  "address": "5405 Avenida Caballo",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Kyle",
+  "ownerLastName": "Girard",
+  "mailingAddress": "8512 Black Bart Ct",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89143",
+  "addressHash": "HA7-9e741acb86b23c151f78b6af351c8eeea89e645f",
+  "tags": "absentee,low-equity",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "6464 Addely Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Alejandra",
+  "ownerLastName": "Mejia",
+  "mailingAddress": "Po Box 218",
+  "mailingCity": "Roseville",
+  "mailingState": "CA",
+  "mailingZipCode": "95678",
+  "addressHash": "HA7-419c53034e5d2f37de8f67582ebe1af6c42d9cb3",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

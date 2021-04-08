@@ -1,0 +1,15 @@
+{
+  "address": "1008 Fay Blvd",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Ofelia",
+  "ownerLastName": "Milana",
+  "mailingAddress": "Po Box 80143",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89180",
+  "addressHash": "HA7-0038ef0c621b363b15962329bfb9398b5e6b431d",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

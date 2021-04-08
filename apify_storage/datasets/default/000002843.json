@@ -1,0 +1,15 @@
+{
+  "address": "6500 W Lake Mead Blvd Unit 230",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Rob",
+  "ownerLastName": "West",
+  "mailingAddress": "6500 W Lake Mead Blvd",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-9f76acf86e861cd81b0228dc6bf16a80ec816e0a",
+  "tags": "absentee,bored-investor,low-equity",
+  "ownertype": "NONE"
+}

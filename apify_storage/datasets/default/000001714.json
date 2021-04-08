@@ -1,0 +1,15 @@
+{
+  "address": "6300 Greyhawk Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Wilfred",
+  "ownerLastName": "Yeung",
+  "mailingAddress": "728 Brushwood Ct",
+  "mailingCity": "Somerset",
+  "mailingState": "NJ",
+  "mailingZipCode": "08873",
+  "addressHash": "HA7-be45aff1610e35d03f2ecded2d564a1e7571683e",
+  "tags": "absentee,ai-high",
+  "ownertype": "NONE"
+}

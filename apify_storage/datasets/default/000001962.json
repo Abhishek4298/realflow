@@ -1,0 +1,15 @@
+{
+  "address": "3604 Lisandro St Unit 101",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Steve",
+  "ownerLastName": "Menger",
+  "mailingAddress": "4647 Designer Way",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89129",
+  "addressHash": "HA7-f997331c7f5dda705674f3cb1a3a26cd9cb8a684",
+  "tags": "absentee,bored-investor",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "3709 Veneer Ln",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "David",
+  "ownerLastName": "Hanks",
+  "mailingAddress": "6105 E Sahara Ave Spc 43",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89142",
+  "addressHash": "HA7-c5af69a1da435c7d0c667f4d7a8c904719732ba8",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

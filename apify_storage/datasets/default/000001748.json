@@ -1,0 +1,15 @@
+{
+  "address": "1000 Torington Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Ramona",
+  "ownerLastName": "Tasios",
+  "mailingAddress": "10017 Sail Landing Ct",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89117",
+  "addressHash": "HA7-a8c8f60bc97900ca8afc85cb9899bcd66d904d45",
+  "tags": "absentee,bored-investor",
+  "ownertype": "NONE"
+}

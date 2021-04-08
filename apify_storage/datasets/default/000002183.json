@@ -1,0 +1,15 @@
+{
+  "address": "1001 Date St",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Lopez",
+  "ownerLastName": "Perez",
+  "mailingAddress": "1001 Date St",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-9dc23e72d1be59fc0fb67a9964b45d2929e608c3",
+  "tags": "foreclosure,free-clear",
+  "ownertype": "NONE"
+}

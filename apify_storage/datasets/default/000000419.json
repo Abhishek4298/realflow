@@ -1,0 +1,15 @@
+{
+  "address": "6433 Little Pine Way",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Oscar",
+  "ownerLastName": "Calvete",
+  "mailingAddress": "",
+  "mailingCity": "King City",
+  "mailingState": "ON",
+  "mailingZipCode": null,
+  "addressHash": "HA7-109824aca74bf6380d9e90200933dd85064b3c90",
+  "tags": "absentee,free-clear",
+  "ownertype": "NONE"
+}

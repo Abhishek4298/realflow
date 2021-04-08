@@ -1,0 +1,15 @@
+{
+  "address": "2433 Sweetgum St",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Samantha",
+  "ownerLastName": "Rodriguez",
+  "mailingAddress": "2441 Sweetgum St",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-cc5c475857df28dd13d1ab93aca878356de8027a",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

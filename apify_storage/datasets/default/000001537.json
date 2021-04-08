@@ -1,0 +1,15 @@
+{
+  "address": "1841 Yellow Rose St",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Chris",
+  "ownerLastName": "Hillebrand",
+  "mailingAddress": "1841 Yellow Rose St",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-6fabc75fd52c8081a25dad2e693e0a1e343ee790",
+  "tags": "high-equity,vacancy",
+  "ownertype": "NONE"
+}

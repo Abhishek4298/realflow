@@ -1,0 +1,15 @@
+{
+  "address": "2013 Jeanne Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Kenneth",
+  "ownerLastName": "Peralta",
+  "mailingAddress": "5036 E Echo St Apt 14",
+  "mailingCity": "Los Angeles",
+  "mailingState": "CA",
+  "mailingZipCode": "90042",
+  "addressHash": "HA7-9fd849d5695e438d2724ba4ab0b9a5ab1645b71b",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

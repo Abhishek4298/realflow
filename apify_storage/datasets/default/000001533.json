@@ -1,0 +1,15 @@
+{
+  "address": "6512 Orchid Hill Cir",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Juan",
+  "ownerLastName": "Diaz",
+  "mailingAddress": "352 S Jones Blvd",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89107",
+  "addressHash": "HA7-95bae963815ad6a5b3c38a707bd99ad303d6fc64",
+  "tags": "absentee,bored-investor,high-equity",
+  "ownertype": "NONE"
+}

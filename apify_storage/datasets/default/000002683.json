@@ -1,0 +1,15 @@
+{
+  "address": "5057 Starfinder Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Danny",
+  "ownerLastName": "Young",
+  "mailingAddress": "13313 Arcturus Ave",
+  "mailingCity": "Gardena",
+  "mailingState": "CA",
+  "mailingZipCode": "90249",
+  "addressHash": "HA7-a8d0f0d2400f16691f2240c29201d1815a9984c9",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

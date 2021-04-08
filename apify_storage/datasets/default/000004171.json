@@ -1,0 +1,15 @@
+{
+  "address": "3904 Prospect St",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Rene",
+  "ownerLastName": "Crespin",
+  "mailingAddress": "4324 S Union Ave",
+  "mailingCity": "Chicago",
+  "mailingState": "IL",
+  "mailingZipCode": "60609",
+  "addressHash": "HA7-efec569ef51794c8c0607d2c0d28e3a8910fb404",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

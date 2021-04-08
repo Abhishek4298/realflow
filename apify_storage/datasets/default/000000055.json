@@ -1,0 +1,15 @@
+{
+  "address": "3819 Azure Ln",
+  "city": "Addison",
+  "state": "TX",
+  "zipCode": "75001",
+  "ownerFirstName": "Robert",
+  "ownerLastName": "Kaatz",
+  "mailingAddress": "3819 Azure Ln",
+  "mailingCity": "Addison",
+  "mailingState": "TX",
+  "mailingZipCode": "75001",
+  "addressHash": "HA7-e965cb9abec1f6591f936584e96ee5d2af20a15d",
+  "tags": "low-equity",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "1401 N Michael Way Apt 132",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Linda",
+  "ownerLastName": "Ford",
+  "mailingAddress": "2220 Denver St",
+  "mailingCity": "San Diego",
+  "mailingState": "CA",
+  "mailingZipCode": "92110",
+  "addressHash": "HA7-053e2e83155153e0ed5007fc85b2051aea1fac82",
+  "tags": "absentee,bored-investor,free-clear",
+  "ownertype": "NONE"
+}

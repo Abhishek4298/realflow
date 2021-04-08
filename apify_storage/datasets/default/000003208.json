@@ -1,0 +1,15 @@
+{
+  "address": "1612 N Torrey Pines Dr Unit 202",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Ron",
+  "ownerLastName": "Jones",
+  "mailingAddress": "3980 Howard Hughes Pkwy Ste 100",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89169",
+  "addressHash": "HA7-dfc95d17678fe0748f115a31746253c1937988b6",
+  "tags": "absentee,bored-investor",
+  "ownertype": "NONE"
+}

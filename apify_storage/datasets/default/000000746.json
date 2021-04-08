@@ -1,0 +1,15 @@
+{
+  "address": "6308 Barkstone Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "John",
+  "ownerLastName": "Kim",
+  "mailingAddress": "5482 Wilshire Blvd # 1522",
+  "mailingCity": "Los Angeles",
+  "mailingState": "CA",
+  "mailingZipCode": "90036",
+  "addressHash": "HA7-d36d8b3d8075806cece74e628b7406c3eb3673e8",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

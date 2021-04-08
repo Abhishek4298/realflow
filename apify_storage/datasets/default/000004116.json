@@ -1,0 +1,15 @@
+{
+  "address": "6601 Canyon Cove Way",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Martin",
+  "ownerLastName": "Kloock",
+  "mailingAddress": "1668 Tustin Ave",
+  "mailingCity": "Costa Mesa",
+  "mailingState": "CA",
+  "mailingZipCode": "92627",
+  "addressHash": "HA7-0e24bbac0974508287ccb0ad30296fe3e990fa00",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

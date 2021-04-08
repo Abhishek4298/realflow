@@ -1,0 +1,15 @@
+{
+  "address": "4908 Stacey Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Paul",
+  "ownerLastName": "Sprada",
+  "mailingAddress": "4908 Stacey Ave",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-88ed7cdf757d7d2cadba4a810b80e7f81c17e9b7",
+  "tags": "potentially-inherited,pre-foreclosure,ai-high",
+  "ownertype": "NONE"
+}

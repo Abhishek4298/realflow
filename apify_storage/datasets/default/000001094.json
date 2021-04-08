@@ -1,0 +1,15 @@
+{
+  "address": "1824 Leonard Ln",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Matthew",
+  "ownerLastName": "Lawrence",
+  "mailingAddress": "3128 Jane Austin Ave",
+  "mailingCity": "North Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89031",
+  "addressHash": "HA7-d99b5834ff19fbf6cc3a6e2a6639e555ad8af679",
+  "tags": "absentee,upside-down",
+  "ownertype": "NONE"
+}

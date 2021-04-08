@@ -1,0 +1,15 @@
+{
+  "address": "2613 Cathedral Ln",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Jane",
+  "ownerLastName": "Melville",
+  "mailingAddress": "3308 Beech Grove Rd",
+  "mailingCity": "Roseland",
+  "mailingState": "VA",
+  "mailingZipCode": "22967",
+  "addressHash": "HA7-4985cb238a73b3b270628edcba1b6cee0f5e7103",
+  "tags": "absentee,bored-investor,upside-down",
+  "ownertype": "NONE"
+}

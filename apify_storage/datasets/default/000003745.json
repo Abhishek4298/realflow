@@ -1,0 +1,15 @@
+{
+  "address": "1120 Greenway Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Yuval",
+  "ownerLastName": "Vachtel",
+  "mailingAddress": "5 Partridge Rd",
+  "mailingCity": "Lexington",
+  "mailingState": "MA",
+  "mailingZipCode": "02420",
+  "addressHash": "HA7-834e1e5348c6d893ca35ed9249b62f930c7522f6",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

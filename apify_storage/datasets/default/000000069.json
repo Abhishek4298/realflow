@@ -1,0 +1,15 @@
+{
+  "address": "3837 Azure Ln",
+  "city": "Addison",
+  "state": "TX",
+  "zipCode": "75001",
+  "ownerFirstName": "William",
+  "ownerLastName": "Perry",
+  "mailingAddress": "3837 Azure Ln",
+  "mailingCity": "Addison",
+  "mailingState": "TX",
+  "mailingZipCode": "75001",
+  "addressHash": "HA7-9ab8dbef4a32da4fa15aa43d24eb03df4f69245b",
+  "tags": "high-equity",
+  "ownertype": "NONE"
+}

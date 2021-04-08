@@ -1,0 +1,15 @@
+{
+  "address": "6394 Carmen Blvd",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Rosa",
+  "ownerLastName": "Macias",
+  "mailingAddress": "6394 Carmen Blvd",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-e7879587de4aa6e3f8e293c6d8105ac5df9c5190",
+  "tags": "potentially-inherited",
+  "ownertype": "NONE"
+}

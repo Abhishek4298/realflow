@@ -1,0 +1,15 @@
+{
+  "address": "3617 Vegas Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Maria",
+  "ownerLastName": "Bahena",
+  "mailingAddress": "2745 S Concord Ave",
+  "mailingCity": "Ontario",
+  "mailingState": "CA",
+  "mailingZipCode": "91761",
+  "addressHash": "HA7-7cd6fc85da16245b3bb1c56dbce862532577c940",
+  "tags": "absentee,free-clear",
+  "ownertype": "NONE"
+}

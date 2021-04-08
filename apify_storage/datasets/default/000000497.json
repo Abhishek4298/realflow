@@ -1,0 +1,15 @@
+{
+  "address": "5421 Mare Way",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Gregory",
+  "ownerLastName": "Thielen",
+  "mailingAddress": "5320 Summer Trout St",
+  "mailingCity": "North Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89031",
+  "addressHash": "HA7-963356af6298929d192bb11d8e5b1587459516bd",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

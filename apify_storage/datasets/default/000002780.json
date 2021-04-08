@@ -1,0 +1,15 @@
+{
+  "address": "2104 Bavington Dr Unit D",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Mary",
+  "ownerLastName": "Kilburg",
+  "mailingAddress": "5916 Glen Eagles Ln",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-0220c448305c561aef85d9b11a33f955c1e56ec2",
+  "tags": "absentee,bored-investor,vacancy",
+  "ownertype": "NONE"
+}

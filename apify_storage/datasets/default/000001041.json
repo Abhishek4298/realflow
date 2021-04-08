@@ -1,0 +1,15 @@
+{
+  "address": "2376 Valley Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Stephen",
+  "ownerLastName": "Pence",
+  "mailingAddress": "408 Holcomb Cir",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89107",
+  "addressHash": "HA7-fe78bf4d19382368b4c96a850b87cc5986df2f89",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

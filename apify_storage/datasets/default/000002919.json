@@ -1,0 +1,15 @@
+{
+  "address": "1806 N Jones Blvd",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Jay",
+  "ownerLastName": "Hatfield",
+  "mailingAddress": "3571 Gallup Ct",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89121",
+  "addressHash": "HA7-b113925eed1516a99fea7839cfcb9469272b8e72",
+  "tags": "absentee,bored-investor,high-equity,vacancy",
+  "ownertype": "NONE"
+}

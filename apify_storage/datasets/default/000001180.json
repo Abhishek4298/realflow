@@ -1,0 +1,15 @@
+{
+  "address": "1536 Canyon Rose Way",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Miguel",
+  "ownerLastName": "Landeros",
+  "mailingAddress": "6062 Darnley St",
+  "mailingCity": "North Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89081",
+  "addressHash": "HA7-6e109afa846751d8de6805c8d48c84d102186671",
+  "tags": "absentee,bored-investor,vacancy",
+  "ownertype": "NONE"
+}

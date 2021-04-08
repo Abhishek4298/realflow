@@ -1,0 +1,15 @@
+{
+  "address": "5700 Carl Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Barry",
+  "ownerLastName": "Ng",
+  "mailingAddress": "432 19Th Ave",
+  "mailingCity": "San Francisco",
+  "mailingState": "CA",
+  "mailingZipCode": "94121",
+  "addressHash": "HA7-2f08eb565040491800266496e6f05b24ffcdd1da",
+  "tags": "absentee,bored-investor",
+  "ownertype": "NONE"
+}

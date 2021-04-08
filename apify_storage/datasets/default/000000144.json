@@ -1,0 +1,15 @@
+{
+  "address": "5901 Smoke Ranch Rd Unit B",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Stella",
+  "ownerLastName": "Meyers",
+  "mailingAddress": "5901 Smoke Ranch Rd",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-b1726de15d27a405a0cdc2c66006d2c826280948",
+  "tags": "absentee,bored-investor",
+  "ownertype": "NONE"
+}

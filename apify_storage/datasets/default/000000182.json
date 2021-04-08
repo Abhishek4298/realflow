@@ -1,0 +1,15 @@
+{
+  "address": "2325 N Mallard St",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Phillip",
+  "ownerLastName": "Le",
+  "mailingAddress": "2325 N Mallard St",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-3d115cbb06e5877fa11021bebf5294d1c4689ac3",
+  "tags": "foreclosure",
+  "ownertype": "NONE"
+}

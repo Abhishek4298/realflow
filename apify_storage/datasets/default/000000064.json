@@ -1,0 +1,15 @@
+{
+  "address": "3805 Park Pl",
+  "city": "Addison",
+  "state": "TX",
+  "zipCode": "75001",
+  "ownerFirstName": "John",
+  "ownerLastName": "Morgan",
+  "mailingAddress": "3805 Park Pl",
+  "mailingCity": "Addison",
+  "mailingState": "TX",
+  "mailingZipCode": "75001",
+  "addressHash": "HA7-c41355b78439e4af17c373684258e92f497b50ae",
+  "tags": "high-equity",
+  "ownertype": "NONE"
+}

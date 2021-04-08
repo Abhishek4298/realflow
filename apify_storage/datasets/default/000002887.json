@@ -1,0 +1,15 @@
+{
+  "address": "1841 Goose Creek Pl",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Enrique",
+  "ownerLastName": "Razo",
+  "mailingAddress": "1841 Goose Creek Pl",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-cd3bf41ec3df87d3d0ac7b194551409f102ea3bc",
+  "tags": "potentially-inherited",
+  "ownertype": "NONE"
+}

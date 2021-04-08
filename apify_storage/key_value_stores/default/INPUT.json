@@ -1,0 +1,18 @@
+{
+  "location": [
+    "75001"
+  ],
+  "version": "version1",
+  "propertyTypes": [
+    "Single Family",
+    "Condo",
+    "Town Home",
+    "Multi Family",
+    "5+ Apartment",
+    "Other"
+  ],
+  "bathroomMin": 3,
+  "lastSaleDateMax": "2017-11-18",
+  "propertyValueMin": 30000,
+  "propertyValueMax": 320000
+}

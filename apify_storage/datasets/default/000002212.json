@@ -1,0 +1,15 @@
+{
+  "address": "1021 Baker Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Bryan",
+  "ownerLastName": "Hilliard",
+  "mailingAddress": "7508 Mardean Ct",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89131",
+  "addressHash": "HA7-2e780c82e731d357f1cf273dce73445f709608c7",
+  "tags": "absentee,bored-investor",
+  "ownertype": "NONE"
+}

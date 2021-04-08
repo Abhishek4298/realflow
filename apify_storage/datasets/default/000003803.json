@@ -1,0 +1,15 @@
+{
+  "address": "1100 Nassau Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Maria",
+  "ownerLastName": "Rivera",
+  "mailingAddress": "1100 Nassau Dr",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-4aae6bd96a594e903689082208f2db5fc8fec090",
+  "tags": "foreclosure",
+  "ownertype": "NONE"
+}

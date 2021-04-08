@@ -1,0 +1,15 @@
+{
+  "address": "6317 Carmen Blvd",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Juan",
+  "ownerLastName": "Perez",
+  "mailingAddress": "5050 Duneville St Apt 107",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89118",
+  "addressHash": "HA7-93e04abff0e670a96c33a86ff4916f3c251ffe99",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

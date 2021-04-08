@@ -1,0 +1,15 @@
+{
+  "address": "1621 Amboy Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Roger",
+  "ownerLastName": "Goodman",
+  "mailingAddress": "3624 Walnut Wood St",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89129",
+  "addressHash": "HA7-07eebce2ed773a9fed6bde223c36d40f8533fb92",
+  "tags": "absentee,bored-investor,high-equity",
+  "ownertype": "NONE"
+}

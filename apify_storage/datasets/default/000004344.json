@@ -1,0 +1,15 @@
+{
+  "address": "1012 Sahara Way",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Casimira",
+  "ownerLastName": "Medina",
+  "mailingAddress": "1012 Sahara Way",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-296e631f35257d8c991fb83cc6267a3e9c6cccd5",
+  "tags": "potentially-inherited",
+  "ownertype": "NONE"
+}

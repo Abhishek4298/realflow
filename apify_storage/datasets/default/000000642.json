@@ -1,0 +1,15 @@
+{
+  "address": "2101 Willowbury Dr Unit D",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "John",
+  "ownerLastName": "Nolan",
+  "mailingAddress": "3750 University Ave Ste 250",
+  "mailingCity": "Riverside",
+  "mailingState": "CA",
+  "mailingZipCode": "92501",
+  "addressHash": "HA7-1a09c4d36e8fb0b63fef83ee743ea641a2dd85a2",
+  "tags": "absentee,bored-investor,free-clear",
+  "ownertype": "NONE"
+}

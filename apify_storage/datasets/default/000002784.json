@@ -1,0 +1,15 @@
+{
+  "address": "2110 Bavington Dr Unit C",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Paul",
+  "ownerLastName": "Loebig",
+  "mailingAddress": "6436 Fisher Ave",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89130",
+  "addressHash": "HA7-cc87093042c86ed962e1be734d9c9dd28d527048",
+  "tags": "absentee,high-equity,vacancy",
+  "ownertype": "NONE"
+}

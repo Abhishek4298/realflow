@@ -1,0 +1,15 @@
+{
+  "address": "6301 Santa Maria Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Graciela",
+  "ownerLastName": "Lopez",
+  "mailingAddress": "3901 El Conlon Ave",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89102",
+  "addressHash": "HA7-2498d02b24c03df1b3c59ed399495b5e653b010e",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

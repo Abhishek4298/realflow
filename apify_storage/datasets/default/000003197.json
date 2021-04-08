@@ -1,0 +1,15 @@
+{
+  "address": "5921 Vegas Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Marllyn",
+  "ownerLastName": "Martinez",
+  "mailingAddress": "5921 Vegas Dr",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-acd3bb44900d27186845e63edb035063ad1157b0",
+  "tags": "vacancy",
+  "ownertype": "NONE"
+}

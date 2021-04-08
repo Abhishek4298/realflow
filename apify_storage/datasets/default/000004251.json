@@ -1,0 +1,15 @@
+{
+  "address": "6800 Atrium Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Pedro",
+  "ownerLastName": "Siekavizza",
+  "mailingAddress": "6800 Atrium Ave",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-9a8604bbe2cb103aca454f0d6bacdf79c3211c27",
+  "tags": "foreclosure,high-equity,ai-high",
+  "ownertype": "NONE"
+}

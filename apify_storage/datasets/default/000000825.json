@@ -1,0 +1,15 @@
+{
+  "address": "5909 Velma Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Jose",
+  "ownerLastName": "Desantiago",
+  "mailingAddress": "5909 Velma Ave",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-6f6fa51ac7ac53df4772fd984344667116cd883a",
+  "tags": "potentially-inherited",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "3608 Spanish Butterfly St Unit 204",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Charlie",
+  "ownerLastName": "Wilson",
+  "mailingAddress": "3608 Spanish Butterfly St Unit 204",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-9f378ef737ac5fae73c07a59e2467297258bb49c",
+  "tags": "vacancy",
+  "ownertype": "NONE"
+}

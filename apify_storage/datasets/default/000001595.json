@@ -1,0 +1,15 @@
+{
+  "address": "1204 Greenway Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Sanchez",
+  "ownerLastName": "Zambrano",
+  "mailingAddress": "6833 Snake River Ave",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89130",
+  "addressHash": "HA7-a3966964129c465a8d0c8ddeabe3c54445f869d0",
+  "tags": "absentee,free-clear",
+  "ownertype": "NONE"
+}

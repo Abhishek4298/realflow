@@ -1,0 +1,15 @@
+{
+  "address": "5422 Vegas Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Mark",
+  "ownerLastName": "Williams",
+  "mailingAddress": "8221 Fulton Ranch St",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89131",
+  "addressHash": "HA7-3ae01ca7b4092ffa41c1f5f7f53b7bda2ac46a4d",
+  "tags": "absentee,bored-investor,low-equity",
+  "ownertype": "NONE"
+}

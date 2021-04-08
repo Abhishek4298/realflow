@@ -1,0 +1,15 @@
+{
+  "address": "1834 N Jones Blvd",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "John",
+  "ownerLastName": "Ickes",
+  "mailingAddress": "6641 Tampa Ct",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-72bf745a9664b3343f22cfd131da4c099783e4cb",
+  "tags": "absentee,bored-investor",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "5001 Jean Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "John",
+  "ownerLastName": "Trinh",
+  "mailingAddress": "15902 Redlands Ave",
+  "mailingCity": "Westminster",
+  "mailingState": "CA",
+  "mailingZipCode": "92683",
+  "addressHash": "HA7-43069fa70964dd6a238b2ab6486da3c6182177a2",
+  "tags": "absentee,foreclosure,free-clear",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "1604 Wildwood Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Jane",
+  "ownerLastName": "Ferrer",
+  "mailingAddress": "7762 High Chaparral St",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89113",
+  "addressHash": "HA7-745799e05525a76b3724040028e10c17fd27fef2",
+  "tags": "absentee,bored-investor,potentially-inherited",
+  "ownertype": "NONE"
+}

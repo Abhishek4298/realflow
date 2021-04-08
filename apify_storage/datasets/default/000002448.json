@@ -1,0 +1,15 @@
+{
+  "address": "2300 Jeanne Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Cinthia",
+  "ownerLastName": "Lopez",
+  "mailingAddress": "10004 San Antonio Ave",
+  "mailingCity": "South Gate",
+  "mailingState": "CA",
+  "mailingZipCode": "90280",
+  "addressHash": "HA7-aef085ad1b9ded065c041527e3aff03d71a3cc4d",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

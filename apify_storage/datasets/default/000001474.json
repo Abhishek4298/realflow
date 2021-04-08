@@ -1,0 +1,15 @@
+{
+  "address": "4313 Edward Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Keith",
+  "ownerLastName": "Reynolds",
+  "mailingAddress": "7317 Hospitality Pl",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89131",
+  "addressHash": "HA7-6d44ba347df054bf215b56dfd3a9124ac1f7d26e",
+  "tags": "absentee,bored-investor",
+  "ownertype": "NONE"
+}

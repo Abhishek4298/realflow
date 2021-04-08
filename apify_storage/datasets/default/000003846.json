@@ -1,0 +1,15 @@
+{
+  "address": "5017 Carmen Blvd",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Maria",
+  "ownerLastName": "Castaneda",
+  "mailingAddress": "5017 Carmen Blvd",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-99dc8a6d945d515589e2989a79bd2a0d18f5df0a",
+  "tags": "foreclosure,free-clear",
+  "ownertype": "NONE"
+}

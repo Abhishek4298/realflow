@@ -1,0 +1,15 @@
+{
+  "address": "5812 W Bartlett Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Carlos",
+  "ownerLastName": "Caldera",
+  "mailingAddress": "5812 W Bartlett Ave",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-570033bd82c70d301d792fcb6fd7eebcc0bfca9c",
+  "tags": "vacancy",
+  "ownertype": "NONE"
+}

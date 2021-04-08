@@ -1,0 +1,15 @@
+{
+  "address": "3720 Snorkel Cir # A",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Norman",
+  "ownerLastName": "Shepard",
+  "mailingAddress": "3720 Snorkel Cir Unit 2",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-9d16d0b1a65e5e43d1b42e0b6e54c39ee637500a",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

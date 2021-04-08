@@ -1,0 +1,15 @@
+{
+  "address": "2136 Willowbury Dr Unit B",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Theresa",
+  "ownerLastName": "Thomas",
+  "mailingAddress": "2502 Muirfield Ave",
+  "mailingCity": "Henderson",
+  "mailingState": "NV",
+  "mailingZipCode": "89074",
+  "addressHash": "HA7-e9b8da004d0f2fefa6d7781a764f04465dc31a74",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

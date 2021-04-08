@@ -1,0 +1,15 @@
+{
+  "address": "51 Runyon Rd",
+  "city": "Addison",
+  "state": "TX",
+  "zipCode": "75001",
+  "ownerFirstName": "William",
+  "ownerLastName": "Thompson",
+  "mailingAddress": "4130 Runyon Rd",
+  "mailingCity": "Addison",
+  "mailingState": "TX",
+  "mailingZipCode": "75001",
+  "addressHash": "HA7-e425bad0beaea7687390a05f2b9d82e8488ff37a",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

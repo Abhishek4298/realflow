@@ -1,0 +1,15 @@
+{
+  "address": "1009 Shelton Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Steven",
+  "ownerLastName": "Silverstein",
+  "mailingAddress": "7219 W Sahara Ave Ste 100",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89117",
+  "addressHash": "HA7-f5bb74bca09b5a4d3db7858df9d21c7f094d7d65",
+  "tags": "absentee,bored-investor",
+  "ownertype": "NONE"
+}

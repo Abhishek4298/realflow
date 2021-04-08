@@ -1,0 +1,15 @@
+{
+  "address": "4108 Roxanne Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Charles",
+  "ownerLastName": "Adams",
+  "mailingAddress": "4108 Roxanne Dr",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-bbc2c89cdd44e3bd3bf62169cde00eeeb584a630",
+  "tags": "vacancy",
+  "ownertype": "NONE"
+}

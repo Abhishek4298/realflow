@@ -1,0 +1,15 @@
+{
+  "address": "4019 Azure Ln",
+  "city": "Addison",
+  "state": "TX",
+  "zipCode": "75001",
+  "ownerFirstName": "Pavel",
+  "ownerLastName": "Nadolsky",
+  "mailingAddress": "4019 Azure Ln",
+  "mailingCity": "Addison",
+  "mailingState": "TX",
+  "mailingZipCode": "75001",
+  "addressHash": "HA7-fc66970ecd6a4e8a96d828319a9d16b5bc5496f9",
+  "tags": "free-clear",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "1800 Starbuck Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Ana",
+  "ownerLastName": "Lopez",
+  "mailingAddress": "6413 Jean Lee Dr",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-ff9fdb557d4c818cd781220ec307096977fb71dc",
+  "tags": "absentee,bored-investor,free-clear",
+  "ownertype": "NONE"
+}

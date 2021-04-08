@@ -1,0 +1,15 @@
+{
+  "address": "6216 Anaconda St",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Naomi",
+  "ownerLastName": "Jardine",
+  "mailingAddress": "Po Box 28826",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89126",
+  "addressHash": "HA7-a82c3bb0f1580d91b3f49b5a891d53c09d1b6e12",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

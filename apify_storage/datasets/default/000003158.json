@@ -1,0 +1,15 @@
+{
+  "address": "6009 Vegas Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Richard",
+  "ownerLastName": "Mills",
+  "mailingAddress": "1022 Nevada Way # 415",
+  "mailingCity": "Boulder City",
+  "mailingState": "NV",
+  "mailingZipCode": "89005",
+  "addressHash": "HA7-97376b3c89829f3e534414531b07aa22a2e0cc91",
+  "tags": "absentee,bored-investor,free-clear",
+  "ownertype": "NONE"
+}

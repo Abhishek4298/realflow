@@ -1,0 +1,15 @@
+{
+  "address": "6909 Delorean Cir",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Maria",
+  "ownerLastName": "Estrellado",
+  "mailingAddress": "6909 Delorean Cir",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-02e55ece2851e349bd0383af06529d64788c5cbd",
+  "tags": "potentially-inherited",
+  "ownertype": "NONE"
+}

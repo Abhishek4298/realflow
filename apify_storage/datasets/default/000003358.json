@@ -1,0 +1,15 @@
+{
+  "address": "1500 Sun Point Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Max",
+  "ownerLastName": "Mcateer",
+  "mailingAddress": "2385 E Windmill Ln # 244",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89123",
+  "addressHash": "HA7-329d54bcf1926e56a8b5ff4f8cd56cf1d39948b5",
+  "tags": "absentee,bored-investor",
+  "ownertype": "NONE"
+}

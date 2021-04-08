@@ -1,0 +1,15 @@
+{
+  "address": "4117 Broadriver Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Maria",
+  "ownerLastName": "Contreras",
+  "mailingAddress": "4117 Broadriver Dr",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-a93b37be8c0c3617ae0ba3abd2e2534b91ef4af9",
+  "tags": "potentially-inherited",
+  "ownertype": "NONE"
+}

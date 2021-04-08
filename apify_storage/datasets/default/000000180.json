@@ -1,0 +1,15 @@
+{
+  "address": "6124 Rosalita Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Maria",
+  "ownerLastName": "Nevarez",
+  "mailingAddress": "3304 Thomas Ave",
+  "mailingCity": "North Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89030",
+  "addressHash": "HA7-af477e78479a59e49dd40b51edd7859432302343",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

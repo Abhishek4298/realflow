@@ -1,0 +1,15 @@
+{
+  "address": "6209 Miraloma St",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Michael",
+  "ownerLastName": "Estrellado",
+  "mailingAddress": "6209 Miraloma St",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-e43fdcad4438fb12a2f7ffbdd817ee631993fcc7",
+  "tags": "potentially-inherited",
+  "ownertype": "NONE"
+}

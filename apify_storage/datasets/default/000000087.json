@@ -1,0 +1,15 @@
+{
+  "address": "3800 Chatham Court Dr",
+  "city": "Addison",
+  "state": "TX",
+  "zipCode": "75001",
+  "ownerFirstName": "Michael",
+  "ownerLastName": "Geary",
+  "mailingAddress": "3800 Chatham Court Dr",
+  "mailingCity": "Addison",
+  "mailingState": "TX",
+  "mailingZipCode": "75001",
+  "addressHash": "HA7-061a1a248d0d35976131e829a3b64a9a568ed616",
+  "tags": "free-clear",
+  "ownertype": "NONE"
+}

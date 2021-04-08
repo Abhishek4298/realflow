@@ -1,0 +1,15 @@
+{
+  "address": "1545 Saylor Way",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Michael",
+  "ownerLastName": "Carter",
+  "mailingAddress": "1718 Roland Dr",
+  "mailingCity": "Bailey",
+  "mailingState": "CO",
+  "mailingZipCode": "80421",
+  "addressHash": "HA7-5a6baf1b445fe5547482950ddd6e4b9ecffca3f9",
+  "tags": "absentee,bored-investor,high-equity",
+  "ownertype": "NONE"
+}

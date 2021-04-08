@@ -1,0 +1,15 @@
+{
+  "address": "5822 Vegas Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Smith",
+  "ownerLastName": "Bell",
+  "mailingAddress": "2625 Desert Sands Dr",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89134",
+  "addressHash": "HA7-201868afe8d80a108ebe1318a037de3b396fb396",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

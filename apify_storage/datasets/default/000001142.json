@@ -1,0 +1,15 @@
+{
+  "address": "2348 Valley Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Pedro",
+  "ownerLastName": "Torres",
+  "mailingAddress": "2348 Valley Dr",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-1d10fd8a518bd34b002d12de26d42b4f7b5b86f1",
+  "tags": "vacancy",
+  "ownertype": "NONE"
+}

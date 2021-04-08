@@ -1,0 +1,15 @@
+{
+  "address": "4613 Coran Ln",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Paul",
+  "ownerLastName": "Wilkins",
+  "mailingAddress": "4613 Coran Ln",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-ac26b51e1b2673e98d922c3440653768ba917c3d",
+  "tags": "potentially-inherited",
+  "ownertype": "NONE"
+}

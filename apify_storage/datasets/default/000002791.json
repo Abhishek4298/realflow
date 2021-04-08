@@ -1,0 +1,15 @@
+{
+  "address": "1900 N Torrey Pines Dr Unit 101",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Judy",
+  "ownerLastName": "Kurashima",
+  "mailingAddress": "1900 N Torrey Pines Dr Unit 101",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-974b3cdffcfb92ed4659e387de9f78ea85dbebe6",
+  "tags": "potentially-inherited,ai-high",
+  "ownertype": "NONE"
+}

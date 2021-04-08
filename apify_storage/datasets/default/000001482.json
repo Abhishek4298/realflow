@@ -1,0 +1,15 @@
+{
+  "address": "5600 Emilia Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Sarah",
+  "ownerLastName": "Hall",
+  "mailingAddress": "4600 Sirius Ave Apt 203",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89102",
+  "addressHash": "HA7-fa3a6646d69c839cd9baf956f033f0a1d1452f81",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

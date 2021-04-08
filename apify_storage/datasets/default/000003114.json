@@ -1,0 +1,15 @@
+{
+  "address": "5920 Vegas Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Donald",
+  "ownerLastName": "Bartholomew",
+  "mailingAddress": "1179 Hilltop Dr",
+  "mailingCity": "Redding",
+  "mailingState": "CA",
+  "mailingZipCode": "96003",
+  "addressHash": "HA7-7d4880637a62f144c45df13197b8460bfce0abb0",
+  "tags": "absentee,bored-investor,high-equity",
+  "ownertype": "NONE"
+}

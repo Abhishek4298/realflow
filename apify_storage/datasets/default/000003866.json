@@ -1,0 +1,15 @@
+{
+  "address": "6333 Greyhawk Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Hector",
+  "ownerLastName": "Sandoval",
+  "mailingAddress": "3109 S Birch St",
+  "mailingCity": "Santa Ana",
+  "mailingState": "CA",
+  "mailingZipCode": "92707",
+  "addressHash": "HA7-b64fb98bee122887216c0dd365195a738e1934fb",
+  "tags": "absentee,bored-investor,free-clear",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "1825 N Mallard St",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Robert",
+  "ownerLastName": "Hales",
+  "mailingAddress": "7510 Curlands Cove Dr",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89117",
+  "addressHash": "HA7-2340fbae1b527c36e98daae0a0ef8e615f8ef9c4",
+  "tags": "absentee,bored-investor,free-clear,vacancy",
+  "ownertype": "NONE"
+}

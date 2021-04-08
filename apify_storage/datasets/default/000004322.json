@@ -1,0 +1,15 @@
+{
+  "address": "1212 Magnolia Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Sonia",
+  "ownerLastName": "Huerta",
+  "mailingAddress": "4423 Loren St",
+  "mailingCity": "Los Angeles",
+  "mailingState": "CA",
+  "mailingZipCode": "90063",
+  "addressHash": "HA7-35016b258dc3b64fc2668d71d0829b13b5e61465",
+  "tags": "absentee,bored-investor,high-equity",
+  "ownertype": "NONE"
+}

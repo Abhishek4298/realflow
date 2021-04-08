@@ -1,0 +1,15 @@
+{
+  "address": "2809 Du Barry Manor Ln",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Matthew",
+  "ownerLastName": "Teller",
+  "mailingAddress": "2809 Du Barry Manor Ln",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-61f133b72dc120c625b5367bc15f853a794697b4",
+  "tags": "free-clear,potentially-inherited",
+  "ownertype": "NONE"
+}

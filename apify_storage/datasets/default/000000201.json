@@ -1,0 +1,15 @@
+{
+  "address": "2305 Maverick St",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Juan",
+  "ownerLastName": "Hernandez",
+  "mailingAddress": "2213 Latitudes Ct",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-0b021ff7f13e63899e8d118676559d4abc1292e8",
+  "tags": "absentee,bored-investor",
+  "ownertype": "NONE"
+}

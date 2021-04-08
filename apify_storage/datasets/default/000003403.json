@@ -1,0 +1,15 @@
+{
+  "address": "1340 N Jones Blvd",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Robert",
+  "ownerLastName": "Niccolson",
+  "mailingAddress": "1340 N Jones Blvd # B",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-a32483956042d38c3e03cf300de0ea394e1ba80a",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

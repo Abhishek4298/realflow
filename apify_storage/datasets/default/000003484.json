@@ -1,0 +1,15 @@
+{
+  "address": "4409 W Lake Mead Blvd",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Miguel",
+  "ownerLastName": "Rodriguez",
+  "mailingAddress": "Po Box 364917",
+  "mailingCity": "North Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89036",
+  "addressHash": "HA7-2bd54e27ca643a5a36a7516cfc6a4d38d7045f56",
+  "tags": "absentee,bored-investor,vacancy",
+  "ownertype": "NONE"
+}

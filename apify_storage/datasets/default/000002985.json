@@ -1,0 +1,15 @@
+{
+  "address": "6600 Silver Penny Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Gloria",
+  "ownerLastName": "Kane",
+  "mailingAddress": "6600 Silver Penny Ave",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-3ada1f1f43a149960a061792745848d77f14dca4",
+  "tags": "potentially-inherited",
+  "ownertype": "NONE"
+}

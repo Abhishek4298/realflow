@@ -1,0 +1,15 @@
+{
+  "address": "2037 Valley Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Paul",
+  "ownerLastName": "Pelanconi",
+  "mailingAddress": "2813 Natalie Ave",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89121",
+  "addressHash": "HA7-2520fc7fc909c61e3b37867fa5e2fbfff35ca589",
+  "tags": "absentee,bored-investor,high-equity",
+  "ownertype": "NONE"
+}

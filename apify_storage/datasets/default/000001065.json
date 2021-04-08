@@ -1,0 +1,15 @@
+{
+  "address": "3457 Trilogy Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Danny",
+  "ownerLastName": "Liang",
+  "mailingAddress": "1000 Venetian Hills Ln",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89144",
+  "addressHash": "HA7-6667c983105c41451e72dcf89c7e10ad8f2b16dc",
+  "tags": "absentee,bored-investor",
+  "ownertype": "NONE"
+}

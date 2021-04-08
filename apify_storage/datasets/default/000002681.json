@@ -1,0 +1,15 @@
+{
+  "address": "2117 Chertsey Dr Unit A",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Juan",
+  "ownerLastName": "Rivera",
+  "mailingAddress": "10031 Otis St",
+  "mailingCity": "South Gate",
+  "mailingState": "CA",
+  "mailingZipCode": "90280",
+  "addressHash": "HA7-23188b4ce2e246f57a11d07151cfc3ab3f592d17",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

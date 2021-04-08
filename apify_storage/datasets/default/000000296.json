@@ -1,0 +1,15 @@
+{
+  "address": "2333 N Michael Way",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Byron",
+  "ownerLastName": "Hsiao",
+  "mailingAddress": "Po Box 2125",
+  "mailingCity": "Bell",
+  "mailingState": "CA",
+  "mailingZipCode": "90202",
+  "addressHash": "HA7-788403a3a0c94045631e0e26acae7f80b0b80b31",
+  "tags": "absentee,high-equity,ai-high",
+  "ownertype": "NONE"
+}

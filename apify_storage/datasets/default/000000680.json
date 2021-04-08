@@ -1,0 +1,15 @@
+{
+  "address": "2233 Avery Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Arturo",
+  "ownerLastName": "Alvarez",
+  "mailingAddress": "1501 Exodus Ct",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89106",
+  "addressHash": "HA7-06c6c5a3632048455f85e213659c09ad0abaae72",
+  "tags": "absentee,free-clear",
+  "ownertype": "NONE"
+}

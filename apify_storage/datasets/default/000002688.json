@@ -1,0 +1,15 @@
+{
+  "address": "5109 Rancher Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Maria",
+  "ownerLastName": "Torres",
+  "mailingAddress": "15453 Mallory Dr",
+  "mailingCity": "Fontana",
+  "mailingState": "CA",
+  "mailingZipCode": "92335",
+  "addressHash": "HA7-b2c7c1e482138b1284c3dffd67b00e0638799ea4",
+  "tags": "absentee,bored-investor",
+  "ownertype": "NONE"
+}

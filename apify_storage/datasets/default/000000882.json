@@ -1,0 +1,15 @@
+{
+  "address": "5716 Santa Catalina Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Crispin",
+  "ownerLastName": "Rodriguez",
+  "mailingAddress": "5716 Santa Catalina Ave",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-6f2684d0cdf9dcbbdc567d2eb45dccd3260f66aa",
+  "tags": "vacancy",
+  "ownertype": "NONE"
+}

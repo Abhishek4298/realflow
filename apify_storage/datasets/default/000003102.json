@@ -1,0 +1,15 @@
+{
+  "address": "2328 Bristol View Ct",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Luis",
+  "ownerLastName": "Guerrero",
+  "mailingAddress": "8921 Wind Warrior Ave",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89143",
+  "addressHash": "HA7-169012b6d6a724675375086e1187629a9f062978",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "2257 Tall Pine Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Taylor",
+  "ownerLastName": "Waite",
+  "mailingAddress": "1671 W Horizon Ridge Pkwy Ste 200",
+  "mailingCity": "Henderson",
+  "mailingState": "NV",
+  "mailingZipCode": "89012",
+  "addressHash": "HA7-c185a29275364efc4f6646c58030c9be5d1996a8",
+  "tags": "absentee,free-clear",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "1113 Date St",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Jaime",
+  "ownerLastName": "Garcia",
+  "mailingAddress": "13115 Stanford Ave",
+  "mailingCity": "Los Angeles",
+  "mailingState": "CA",
+  "mailingZipCode": "90059",
+  "addressHash": "HA7-eaf75cb4861505e9ee013d12f5f03f63ec522219",
+  "tags": "absentee,bored-investor,low-equity",
+  "ownertype": "NONE"
+}

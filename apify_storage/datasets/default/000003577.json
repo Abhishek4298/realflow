@@ -1,0 +1,15 @@
+{
+  "address": "6216 Carmen Blvd",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Andres",
+  "ownerLastName": "Martinez",
+  "mailingAddress": "143 S Avenue 23",
+  "mailingCity": "Los Angeles",
+  "mailingState": "CA",
+  "mailingZipCode": "90031",
+  "addressHash": "HA7-11efe7c0bcbaf112f54e14359e26be6e90a4a43d",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

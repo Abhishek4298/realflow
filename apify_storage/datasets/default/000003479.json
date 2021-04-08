@@ -1,0 +1,15 @@
+{
+  "address": "1602 Marathon Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Pierre",
+  "ownerLastName": "Pozworski",
+  "mailingAddress": "1804 Marathon Dr",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-f08ddf570293434b5b1bad1126a53bccb1f94a30",
+  "tags": "absentee,foreclosure,free-clear",
+  "ownertype": "NONE"
+}

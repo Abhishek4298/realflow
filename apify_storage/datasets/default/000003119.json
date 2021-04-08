@@ -1,0 +1,15 @@
+{
+  "address": "5824 La Jolla Way",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Alejandro",
+  "ownerLastName": "Palomino",
+  "mailingAddress": "329 N Spruce St",
+  "mailingCity": "Montebello",
+  "mailingState": "CA",
+  "mailingZipCode": "90640",
+  "addressHash": "HA7-97abbfe4432ac85e1536356f4410810486672ec9",
+  "tags": "absentee,bored-investor",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "3313 Country Place Ln",
+  "city": "Granite City",
+  "state": "IL",
+  "zipCode": "62040",
+  "ownerFirstName": "Kevin",
+  "ownerLastName": "Mcginnis",
+  "mailingAddress": "120 Somerset Dr",
+  "mailingCity": "Glen Carbon",
+  "mailingState": "IL",
+  "mailingZipCode": "62034",
+  "addressHash": "HA7-31164c85b998c002763351c8073b4778f45b93d4",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

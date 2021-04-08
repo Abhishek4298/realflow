@@ -1,0 +1,15 @@
+{
+  "address": "3705 Clarkson St",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Jason",
+  "ownerLastName": "Marchese",
+  "mailingAddress": "8604 Desert Bird Dr",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89145",
+  "addressHash": "HA7-6c22470bbb1ce560ea96e9e7835f3c4dd6a15348",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

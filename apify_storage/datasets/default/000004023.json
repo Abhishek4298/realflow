@@ -1,0 +1,15 @@
+{
+  "address": "3801 Dream St",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Ricardo",
+  "ownerLastName": "Garateix",
+  "mailingAddress": "2205 Menifee Ct",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89134",
+  "addressHash": "HA7-e2453320dce49e8a41fa1ce08cc4fc62c193e205",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

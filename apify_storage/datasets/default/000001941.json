@@ -1,0 +1,15 @@
+{
+  "address": "3605 Pintadas St Unit 102",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Donna",
+  "ownerLastName": "Smith",
+  "mailingAddress": "3600 Pintadas St Unit 101",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-ac64879e1a63e7501fd5576e965d1b2b017273a9",
+  "tags": "absentee,bored-investor",
+  "ownertype": "NONE"
+}

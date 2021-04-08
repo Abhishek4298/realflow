@@ -1,0 +1,15 @@
+{
+  "address": "1401 N Michael Way Apt 158",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Richard",
+  "ownerLastName": "Bowles",
+  "mailingAddress": "1401 N Michael Way # A158",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-aef147c85c8b41788d7da957aa892caeaf67294f",
+  "tags": "absentee,bored-investor",
+  "ownertype": "NONE"
+}

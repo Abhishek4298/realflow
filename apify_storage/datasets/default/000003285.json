@@ -1,0 +1,15 @@
+{
+  "address": "1508 Saylor Way",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Bruce",
+  "ownerLastName": "Beall",
+  "mailingAddress": "1421 N Jones Blvd # 111",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-16a2b2a9acd757056658b891f0020760c0fa9c41",
+  "tags": "absentee,bored-investor,high-equity,ai-high",
+  "ownertype": "NONE"
+}

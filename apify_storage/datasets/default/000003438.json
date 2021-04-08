@@ -1,0 +1,15 @@
+{
+  "address": "1401 N Michael Way Apt 211",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "John",
+  "ownerLastName": "Bobbitt",
+  "mailingAddress": "1401 N Michael Way Apt 211",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-72589d1b32f006d1e561469ac18a584b0e9474e0",
+  "tags": "high-equity,potentially-inherited",
+  "ownertype": "NONE"
+}

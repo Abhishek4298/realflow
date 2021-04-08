@@ -1,0 +1,15 @@
+{
+  "address": "6379 Blue Twilight Ct",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Henry",
+  "ownerLastName": "Yogi",
+  "mailingAddress": "Po Box 507",
+  "mailingCity": "Wailuku",
+  "mailingState": "HI",
+  "mailingZipCode": "96793",
+  "addressHash": "HA7-17e8309105017f7d4e72f3b6b93f5a10f85a1419",
+  "tags": "absentee,bored-investor,free-clear",
+  "ownertype": "NONE"
+}

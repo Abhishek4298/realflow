@@ -1,0 +1,15 @@
+{
+  "address": "1805 Starbuck Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Ramak",
+  "ownerLastName": "Poursamadi",
+  "mailingAddress": "8110 W Warm Springs Rd Ste 110",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89113",
+  "addressHash": "HA7-6359f22c0a56f341be6017c3ce23f1425e8ff57b",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

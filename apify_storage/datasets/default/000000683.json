@@ -1,0 +1,15 @@
+{
+  "address": "4995 Roberta Ln",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Brent",
+  "ownerLastName": "Bulloch",
+  "mailingAddress": "Po Box 335417",
+  "mailingCity": "North Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89033",
+  "addressHash": "HA7-e3545ca7c415dd8a9543f1b09517a3adbb6ef434",
+  "tags": "absentee,foreclosure,vacancy",
+  "ownertype": "NONE"
+}

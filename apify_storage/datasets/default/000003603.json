@@ -1,0 +1,15 @@
+{
+  "address": "1201 N Mallard St",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "",
+  "ownerLastName": "Desert View Trust",
+  "mailingAddress": "7510 Curlands Cove Dr",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89117",
+  "addressHash": "HA7-a4c55b82fea1f82504762a0c06f28a59457b1dea",
+  "tags": "absentee,bored-investor",
+  "ownertype": "TRUST"
+}

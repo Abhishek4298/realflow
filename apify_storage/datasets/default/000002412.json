@@ -1,0 +1,15 @@
+{
+  "address": "6345 Plaza Verde Pl",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Gregory",
+  "ownerLastName": "Rice",
+  "mailingAddress": "5901 Sheila Ave",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-de4cf3a8640bd9d325b845adfff4a561ae31b238",
+  "tags": "absentee,active-listing,bored-investor",
+  "ownertype": "NONE"
+}

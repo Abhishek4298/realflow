@@ -1,0 +1,15 @@
+{
+  "address": "1861 Ridgefield Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Pablo",
+  "ownerLastName": "Guzman",
+  "mailingAddress": "5700 Royal Castle Ln",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89130",
+  "addressHash": "HA7-333fc27ca1703887b07d19b5bfe5f1759989055b",
+  "tags": "absentee,bored-investor",
+  "ownertype": "NONE"
+}

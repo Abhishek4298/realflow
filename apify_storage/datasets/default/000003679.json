@@ -1,0 +1,15 @@
+{
+  "address": "3709 Snorkel Cir # C",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "John",
+  "ownerLastName": "Trice",
+  "mailingAddress": "3709 Snorkel Cir Unit 1",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-e980f1c90c806128226f40246d20c7ee60b3e2af",
+  "tags": "absentee,bored-investor,high-equity",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "5617 Eugene Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Manuel",
+  "ownerLastName": "Cordero",
+  "mailingAddress": "1800 Wengert Ave",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89104",
+  "addressHash": "HA7-aebdeff79a2f6dcf8e246bf2c77347e809288048",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

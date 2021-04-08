@@ -1,0 +1,15 @@
+{
+  "address": "14918 Lake Forest Dr",
+  "city": "Addison",
+  "state": "TX",
+  "zipCode": "75001",
+  "ownerFirstName": "Scott",
+  "ownerLastName": "Hershman",
+  "mailingAddress": "3102 Oak Lawn Ave Ste 777",
+  "mailingCity": "Dallas",
+  "mailingState": "TX",
+  "mailingZipCode": "75219",
+  "addressHash": "HA7-042fd67bd2b6f5f1ca0efce12754a735c60142c0",
+  "tags": "absentee,bored-investor",
+  "ownertype": "NONE"
+}

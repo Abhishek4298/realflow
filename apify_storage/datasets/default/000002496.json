@@ -1,0 +1,15 @@
+{
+  "address": "2608 Shakespeare Rd",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Sonya",
+  "ownerLastName": "Ali",
+  "mailingAddress": "5468 Canopy Oak Dr",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89135",
+  "addressHash": "HA7-f79194a36fa2fb6f7c49ae6a4e4a4c225b9b7c52",
+  "tags": "absentee,bored-investor,foreclosure",
+  "ownertype": "NONE"
+}

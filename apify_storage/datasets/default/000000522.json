@@ -1,0 +1,15 @@
+{
+  "address": "6508 Yarmouth Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Rosa",
+  "ownerLastName": "Castro",
+  "mailingAddress": "6508 Yarmouth Dr",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-7ca6da92f176e2228f68859071621a3cc1bb1fb4",
+  "tags": "potentially-inherited",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "3309 Irv Marcus Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Fred",
+  "ownerLastName": "Taylor",
+  "mailingAddress": "Po Box 46158",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89114",
+  "addressHash": "HA7-bdf69f1f151383a42175e2661cc9f6d45e070194",
+  "tags": "absentee,bored-investor",
+  "ownertype": "NONE"
+}

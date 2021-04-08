@@ -1,0 +1,15 @@
+{
+  "address": "6665 Fredonia Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Eva",
+  "ownerLastName": "Zamora",
+  "mailingAddress": "112 California Ct",
+  "mailingCity": "Mission Viejo",
+  "mailingState": "CA",
+  "mailingZipCode": "92692",
+  "addressHash": "HA7-99eaa9fbabd2d65885c0bae808de4cc122824a25",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

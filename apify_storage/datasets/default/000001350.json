@@ -1,0 +1,15 @@
+{
+  "address": "1337 Sun Point Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Raul",
+  "ownerLastName": "Rosales",
+  "mailingAddress": "1611 Running Creek Dr",
+  "mailingCity": "North Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89031",
+  "addressHash": "HA7-75b6a4678c08539e316f0f75a46a3a3dafda757c",
+  "tags": "absentee,bored-investor,high-equity",
+  "ownertype": "NONE"
+}

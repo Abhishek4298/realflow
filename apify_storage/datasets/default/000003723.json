@@ -1,0 +1,15 @@
+{
+  "address": "1012 Saylor Way",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Norma",
+  "ownerLastName": "Derivas",
+  "mailingAddress": "1012 Saylor Way",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-efae863cf7cb903e1a13ccc48a2a4e9a974cb7c4",
+  "tags": "vacancy",
+  "ownertype": "NONE"
+}

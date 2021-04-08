@@ -1,0 +1,15 @@
+{
+  "address": "1928 Ann Greta Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Vernon",
+  "ownerLastName": "Gray",
+  "mailingAddress": "3800 Dalecrest Dr Unit 1053",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89129",
+  "addressHash": "HA7-df08f97109044959c6165da8f8523f3e7b50514b",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

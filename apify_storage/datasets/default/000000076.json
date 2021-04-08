@@ -1,0 +1,15 @@
+{
+  "address": "3781 Park Pl",
+  "city": "Addison",
+  "state": "TX",
+  "zipCode": "75001",
+  "ownerFirstName": "John",
+  "ownerLastName": "Mccarble",
+  "mailingAddress": "3781 Park Pl",
+  "mailingCity": "Addison",
+  "mailingState": "TX",
+  "mailingZipCode": "75001",
+  "addressHash": "HA7-b6b5f4d4a25182f0ba7cbd88c966d97c704d5fc8",
+  "tags": "low-equity",
+  "ownertype": "NONE"
+}

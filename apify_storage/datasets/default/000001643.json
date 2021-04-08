@@ -1,0 +1,15 @@
+{
+  "address": "2101 Hussium Hills St Unit 202",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Thomas",
+  "ownerLastName": "Jones",
+  "mailingAddress": "32941 Sentinel Dr",
+  "mailingCity": "Trabuco Canyon",
+  "mailingState": "CA",
+  "mailingZipCode": "92679",
+  "addressHash": "HA7-81d8b72304ae20030805b506b197f3f13d6f8e33",
+  "tags": "absentee,bored-investor,low-equity",
+  "ownertype": "NONE"
+}

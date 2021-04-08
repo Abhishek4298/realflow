@@ -1,0 +1,15 @@
+{
+  "address": "5624 Balzar Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "John",
+  "ownerLastName": "Harrity",
+  "mailingAddress": "5624 Balzar Ave",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-5a897b7a1d22de770c540a1c8cf96f8cf0106d3b",
+  "tags": "foreclosure,high-equity",
+  "ownertype": "NONE"
+}

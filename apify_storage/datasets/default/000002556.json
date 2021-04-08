@@ -1,0 +1,15 @@
+{
+  "address": "2636 La Mata St",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "",
+  "ownerLastName": "Viad Trust",
+  "mailingAddress": "35 Big Creek Ct",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89148",
+  "addressHash": "HA7-40e1fc9f87aba009459c87aab06978faa6229249",
+  "tags": "absentee",
+  "ownertype": "TRUST"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "1620 N Jones Blvd",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Jose",
+  "ownerLastName": "Magana",
+  "mailingAddress": "1620 N Jones Blvd",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-fd93a449738f4499b8608067938d081bfacabafd",
+  "tags": "vacancy",
+  "ownertype": "NONE"
+}

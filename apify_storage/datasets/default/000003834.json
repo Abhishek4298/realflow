@@ -1,0 +1,15 @@
+{
+  "address": "1224 Claim Jumper Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Lawrence",
+  "ownerLastName": "Santiago",
+  "mailingAddress": "3323 Alabama St",
+  "mailingCity": "La Crescenta",
+  "mailingState": "CA",
+  "mailingZipCode": "91214",
+  "addressHash": "HA7-ac7a80ecce15ed58459e759d6e9adb671da077bd",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

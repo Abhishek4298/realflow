@@ -1,0 +1,15 @@
+{
+  "address": "2801 N Rainbow Blvd Apt 169",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Smith Family Living Trust",
+  "ownerLastName": "",
+  "mailingAddress": "3097 Appaloosa Dr",
+  "mailingCity": "Lake Havasu City",
+  "mailingState": "AZ",
+  "mailingZipCode": "86406",
+  "addressHash": "HA7-08e408e3c7669351d12e26c51c4a60bccd6a7d13",
+  "tags": "absentee,bored-investor,free-clear",
+  "ownertype": "TRUST"
+}

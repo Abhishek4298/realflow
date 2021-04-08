@@ -1,0 +1,15 @@
+{
+  "address": "4019 Bobbin Ln",
+  "city": "Addison",
+  "state": "TX",
+  "zipCode": "75001",
+  "ownerFirstName": "John",
+  "ownerLastName": "Billeaud",
+  "mailingAddress": "4019 Bobbin Ln",
+  "mailingCity": "Addison",
+  "mailingState": "TX",
+  "mailingZipCode": "75001",
+  "addressHash": "HA7-308e40536db1d4e687bf1322c11510978675932c",
+  "tags": "low-equity",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "14800 Lake Forest Dr",
+  "city": "Addison",
+  "state": "TX",
+  "zipCode": "75001",
+  "ownerFirstName": "William",
+  "ownerLastName": "Neal",
+  "mailingAddress": "Po Box 803338",
+  "mailingCity": "Dallas",
+  "mailingState": "TX",
+  "mailingZipCode": "75380",
+  "addressHash": "HA7-05facde79e4344c0d7f26e25163d43eaf4e76b3f",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

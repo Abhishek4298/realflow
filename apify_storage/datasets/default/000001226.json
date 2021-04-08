@@ -1,0 +1,15 @@
+{
+  "address": "6640 Gazelle Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Thomas",
+  "ownerLastName": "Nguyen",
+  "mailingAddress": "112 Mcnamee Dr",
+  "mailingCity": "Folsom",
+  "mailingState": "CA",
+  "mailingZipCode": "95630",
+  "addressHash": "HA7-c5062691b75a79db3997d71368dcce6f9d5084a1",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

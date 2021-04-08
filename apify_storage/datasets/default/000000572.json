@@ -1,0 +1,15 @@
+{
+  "address": "6557 Sweetzer Way",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Bank U S Trust N A Trs",
+  "ownerLastName": "",
+  "mailingAddress": "3630 Peachtree Rd Ne Ste 1500",
+  "mailingCity": "Atlanta",
+  "mailingState": "GA",
+  "mailingZipCode": "30326",
+  "addressHash": "HA7-7f4f6629dfcc64437e00696d57701db50c65f86f",
+  "tags": "absentee,foreclosure,low-equity,vacancy",
+  "ownertype": "TRUST"
+}

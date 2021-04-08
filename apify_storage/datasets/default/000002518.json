@@ -1,0 +1,15 @@
+{
+  "address": "5700 Mossman Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Jose",
+  "ownerLastName": "Lemus",
+  "mailingAddress": "5700 Mossman Ave",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-04d51a0753816ddd2bab44fd63f21f2f11f67d08",
+  "tags": "potentially-inherited,ai-high",
+  "ownertype": "NONE"
+}

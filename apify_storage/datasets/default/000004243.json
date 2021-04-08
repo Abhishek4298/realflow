@@ -1,0 +1,15 @@
+{
+  "address": "4141 Woodgreen Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Jose",
+  "ownerLastName": "Galindo",
+  "mailingAddress": "11271 S Colbow St",
+  "mailingCity": "Orange",
+  "mailingState": "CA",
+  "mailingZipCode": "92869",
+  "addressHash": "HA7-79a5448c686a293884043c5a8c718bc4ef5662ce",
+  "tags": "absentee,free-clear,potentially-inherited",
+  "ownertype": "NONE"
+}

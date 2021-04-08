@@ -1,0 +1,15 @@
+{
+  "address": "3213 Point Lobos Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "David",
+  "ownerLastName": "Ponce",
+  "mailingAddress": "3521 N Bronco St",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-36d729df5e5f4347fa91cfdaafd90efc4eefb251",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

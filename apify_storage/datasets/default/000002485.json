@@ -1,0 +1,15 @@
+{
+  "address": "2112 Fuller Rd",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Benerito",
+  "ownerLastName": "Garcia",
+  "mailingAddress": "3921 San Gabriel St",
+  "mailingCity": "San Bernardino",
+  "mailingState": "CA",
+  "mailingZipCode": "92404",
+  "addressHash": "HA7-30da40c71a634f8e2133303249c7a906b5b1f15a",
+  "tags": "absentee,free-clear",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "6205 Robin Hood Cir",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Sue",
+  "ownerLastName": "Komenda",
+  "mailingAddress": "848 Mantis Way Unit 3",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89110",
+  "addressHash": "HA7-aca36ec90c82876f644d0b65fb0ef6f57e7dc0f2",
+  "tags": "absentee,free-clear",
+  "ownertype": "NONE"
+}

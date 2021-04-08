@@ -1,0 +1,15 @@
+{
+  "address": "3600 Briarglen Ln",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Mary",
+  "ownerLastName": "Greenlee",
+  "mailingAddress": "4923 Sawyer Ave",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-4c49b7bbcbf4de09a87b59a74c854eec4049e84a",
+  "tags": "absentee,bored-investor",
+  "ownertype": "NONE"
+}

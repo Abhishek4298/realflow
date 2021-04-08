@@ -1,0 +1,15 @@
+{
+  "address": "6825 Megan Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Robin",
+  "ownerLastName": "Stratton",
+  "mailingAddress": "5275 Arville St",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89118",
+  "addressHash": "HA7-3b62f127e0a323a622c804dcd918bfbaa0f743dd",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "3700 Snorkel Cir # A",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Alison",
+  "ownerLastName": "Premdas",
+  "mailingAddress": "3700 Snorkel Cir",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-31a0c45985bb649cbb6f7904dd64ea747b897d11",
+  "tags": "absentee,bored-investor,upside-down",
+  "ownertype": "NONE"
+}

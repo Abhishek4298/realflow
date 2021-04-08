@@ -1,0 +1,15 @@
+{
+  "address": "5001 Starfinder Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Minh",
+  "ownerLastName": "Nguyen",
+  "mailingAddress": "2912 E Mariquita St",
+  "mailingCity": "Long Beach",
+  "mailingState": "CA",
+  "mailingZipCode": "90803",
+  "addressHash": "HA7-aa98e26794bd53fddf02b5949ca8620cd43f2903",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

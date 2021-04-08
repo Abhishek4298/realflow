@@ -1,0 +1,15 @@
+{
+  "address": "6553 Peartree Rd",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Juan",
+  "ownerLastName": "Iniguez",
+  "mailingAddress": "5262 Steinbrenner Ln",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89118",
+  "addressHash": "HA7-185a78aae0153bc88d54ddcbdef0f04fe6d80bc1",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

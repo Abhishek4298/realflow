@@ -1,0 +1,15 @@
+{
+  "address": "6541 Castor Tree Way",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Sam",
+  "ownerLastName": "Zheng",
+  "mailingAddress": "4001 S Decatur Blvd # 37-333",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89103",
+  "addressHash": "HA7-ce7065c55f5586d6289ded1f0d6236e66dd9fb8f",
+  "tags": "absentee,foreclosure,high-equity",
+  "ownertype": "NONE"
+}

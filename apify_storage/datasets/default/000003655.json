@@ -1,0 +1,15 @@
+{
+  "address": "3701 Snorkel Cir # D",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Antonio",
+  "ownerLastName": "Valadez",
+  "mailingAddress": "3701 Snorkel Cir Unit 3",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-8214a98b8ebedbbcd74cc7a534c2b8d31fa85e6d",
+  "tags": "absentee,bored-investor",
+  "ownertype": "NONE"
+}

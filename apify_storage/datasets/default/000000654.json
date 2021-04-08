@@ -1,0 +1,15 @@
+{
+  "address": "2332 Steinke Ln",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Tanya",
+  "ownerLastName": "Arnold",
+  "mailingAddress": "2332 Steinke Ln",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-5967f7c5f04f1f1360b8d2ddb108acd9ee0ef39e",
+  "tags": "potentially-inherited,ai-high",
+  "ownertype": "NONE"
+}

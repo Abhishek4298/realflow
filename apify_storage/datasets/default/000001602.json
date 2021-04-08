@@ -1,0 +1,15 @@
+{
+  "address": "4221 Sawyer Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Juan",
+  "ownerLastName": "Garcia",
+  "mailingAddress": "4221 Sawyer Ave",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-d76b10140bd55e5d71e9de9adba5ebcbc3ece64b",
+  "tags": "vacancy",
+  "ownertype": "NONE"
+}

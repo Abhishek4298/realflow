@@ -1,0 +1,15 @@
+{
+  "address": "1700 Timber Ln",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Philippe",
+  "ownerLastName": "Lee",
+  "mailingAddress": "1137 S Almansor St",
+  "mailingCity": "Alhambra",
+  "mailingState": "CA",
+  "mailingZipCode": "91801",
+  "addressHash": "HA7-09ba054174124daf6fcf591cdd5ef18dce386e29",
+  "tags": "absentee,free-clear",
+  "ownertype": "NONE"
+}

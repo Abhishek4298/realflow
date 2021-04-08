@@ -1,0 +1,15 @@
+{
+  "address": "5517 Cleary Ct",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Juan",
+  "ownerLastName": "Salgado",
+  "mailingAddress": "5517 Cleary Ct",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-6d7fc6f8a0474ac448a197894543ed4862013b37",
+  "tags": "free-clear,potentially-inherited",
+  "ownertype": "NONE"
+}

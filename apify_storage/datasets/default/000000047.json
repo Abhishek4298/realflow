@@ -1,0 +1,15 @@
+{
+  "address": "4007 Bobbin Ln",
+  "city": "Addison",
+  "state": "TX",
+  "zipCode": "75001",
+  "ownerFirstName": "Richard",
+  "ownerLastName": "Yentsch",
+  "mailingAddress": "4007 Bobbin Ln",
+  "mailingCity": "Addison",
+  "mailingState": "TX",
+  "mailingZipCode": "75001",
+  "addressHash": "HA7-ddf0730e62f417bf339fcf56351799b17acdd2ca",
+  "tags": "upside-down",
+  "ownertype": "NONE"
+}

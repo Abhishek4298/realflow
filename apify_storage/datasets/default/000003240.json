@@ -1,0 +1,15 @@
+{
+  "address": "5816 Pebble Beach Blvd",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Thomas",
+  "ownerLastName": "Ahey",
+  "mailingAddress": "5750 Sheila Ave",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-ef035820d6733f7f530a6b079ce75085455392c4",
+  "tags": "absentee,bored-investor",
+  "ownertype": "NONE"
+}

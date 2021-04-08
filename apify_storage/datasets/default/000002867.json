@@ -1,0 +1,15 @@
+{
+  "address": "2601 Camphor Tree St",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Peggy",
+  "ownerLastName": "Lucey",
+  "mailingAddress": "1642 Fuerte Hills Dr",
+  "mailingCity": "El Cajon",
+  "mailingState": "CA",
+  "mailingZipCode": "92020",
+  "addressHash": "HA7-85be0bb85a7ed63dbf0f8461207373dc9f9d3446",
+  "tags": "absentee,bored-investor,high-equity",
+  "ownertype": "NONE"
+}

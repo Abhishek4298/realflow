@@ -1,0 +1,15 @@
+{
+  "address": "6561 Wild River Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Jose",
+  "ownerLastName": "Gonzalez",
+  "mailingAddress": "1174 N Summit Ave",
+  "mailingCity": "Pasadena",
+  "mailingState": "CA",
+  "mailingZipCode": "91103",
+  "addressHash": "HA7-9792e62ef13f5590ca998a9328e4023f4c59ede4",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

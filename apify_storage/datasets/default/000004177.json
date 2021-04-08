@@ -1,0 +1,15 @@
+{
+  "address": "3912 Prospect St",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Jose",
+  "ownerLastName": "Dejesus",
+  "mailingAddress": "3012 Morningside Ave",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89106",
+  "addressHash": "HA7-530f7fa411f9095c623b00f18a72a0b07bf67a6a",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

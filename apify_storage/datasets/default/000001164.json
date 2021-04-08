@@ -1,0 +1,15 @@
+{
+  "address": "1909 Indrio Cir",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Prudencia",
+  "ownerLastName": "Lares",
+  "mailingAddress": "12553 Lorne St",
+  "mailingCity": "North Hollywood",
+  "mailingState": "CA",
+  "mailingZipCode": "91605",
+  "addressHash": "HA7-75cdba40ce9e9c492a03c66e567ca9403ab87f15",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "1401 N Michael Way Apt 223",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Leoncio",
+  "ownerLastName": "Solis",
+  "mailingAddress": "1401 N Michael Way Apt 223K",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-1ba949c5f9708f1b09ff371e5c0d503c67c2463f",
+  "tags": "absentee,bored-investor",
+  "ownertype": "NONE"
+}

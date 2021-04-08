@@ -1,0 +1,15 @@
+{
+  "address": "2405 Valparaiso St",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Myron",
+  "ownerLastName": "Kwong",
+  "mailingAddress": "8910 W Tropicana Ave Ste 3",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89147",
+  "addressHash": "HA7-07d3b4636cb64213e241484c55a4fa4ac034ae95",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

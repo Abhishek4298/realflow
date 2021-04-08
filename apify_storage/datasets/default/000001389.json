@@ -1,0 +1,15 @@
+{
+  "address": "1818 N Decatur Blvd Unit 201",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "James",
+  "ownerLastName": "Collins",
+  "mailingAddress": "1818 N Decatur Blvd",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-05dad9871bdcac124a9a63579ed7e4bd6287f10e",
+  "tags": "absentee,bored-investor,pre-foreclosure",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "3920 Lazy Pine St Unit 101",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Edward",
+  "ownerLastName": "Flynn",
+  "mailingAddress": "3920 Lazy Pine St Unit 101",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-9dbc06c7d48fcb50de2394d25b9554653746308b",
+  "tags": "free-clear,vacancy",
+  "ownertype": "NONE"
+}

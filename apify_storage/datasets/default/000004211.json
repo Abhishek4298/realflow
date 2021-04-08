@@ -1,0 +1,15 @@
+{
+  "address": "1005 Oak Tree Ln",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Randall",
+  "ownerLastName": "Durniok",
+  "mailingAddress": "19228 Marmalade Ct",
+  "mailingCity": "Riverside",
+  "mailingState": "CA",
+  "mailingZipCode": "92508",
+  "addressHash": "HA7-b5dfba3467d0a107c7d364a043330e5d86a54ab4",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

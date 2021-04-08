@@ -1,0 +1,15 @@
+{
+  "address": "2801 N Rainbow Blvd Apt 206",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Jacob",
+  "ownerLastName": "Simmons",
+  "mailingAddress": "336 Solar Wind St",
+  "mailingCity": "Henderson",
+  "mailingState": "NV",
+  "mailingZipCode": "89014",
+  "addressHash": "HA7-cb561bdc828061b9b93336ca777496df643c37a4",
+  "tags": "absentee,bored-investor",
+  "ownertype": "NONE"
+}

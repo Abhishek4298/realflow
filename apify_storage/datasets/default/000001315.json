@@ -1,0 +1,15 @@
+{
+  "address": "1401 N Michael Way Apt 240",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Edwin",
+  "ownerLastName": "Aquino",
+  "mailingAddress": "6027 Pineland Ave",
+  "mailingCity": "San Jose",
+  "mailingState": "CA",
+  "mailingZipCode": "95123",
+  "addressHash": "HA7-083ab6f10c0b99862817ff86373d1ab126ff75ec",
+  "tags": "absentee,low-equity",
+  "ownertype": "NONE"
+}

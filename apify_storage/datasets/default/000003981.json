@@ -1,0 +1,15 @@
+{
+  "address": "1013 N Yale St",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Edward",
+  "ownerLastName": "Hernandez",
+  "mailingAddress": "1013 N Yale St",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-14ce662bb49a0dc880a24f5fbcc1f2594f5d016c",
+  "tags": "vacancy",
+  "ownertype": "NONE"
+}

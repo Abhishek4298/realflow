@@ -1,0 +1,15 @@
+{
+  "address": "4012 Morman Ln",
+  "city": "Addison",
+  "state": "TX",
+  "zipCode": "75001",
+  "ownerFirstName": "Kathy",
+  "ownerLastName": "Albright",
+  "mailingAddress": "30 Rocky Top Dr",
+  "mailingCity": "Gainesville",
+  "mailingState": "TX",
+  "mailingZipCode": "76240",
+  "addressHash": "HA7-198b91e6abb9f31417fdbbc7a26d5a2522e6282d",
+  "tags": "absentee,free-clear",
+  "ownertype": "NONE"
+}

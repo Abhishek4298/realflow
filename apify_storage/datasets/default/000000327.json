@@ -1,0 +1,15 @@
+{
+  "address": "2436 Charteroak St",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Susan",
+  "ownerLastName": "Miller",
+  "mailingAddress": "4719 E Maychelle Dr",
+  "mailingCity": "Anaheim",
+  "mailingState": "CA",
+  "mailingZipCode": "92807",
+  "addressHash": "HA7-a535e37f364cd599ca632def5004c57746e6d7f3",
+  "tags": "absentee,foreclosure,high-equity,vacancy",
+  "ownertype": "NONE"
+}

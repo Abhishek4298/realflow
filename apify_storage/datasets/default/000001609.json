@@ -1,0 +1,15 @@
+{
+  "address": "1024 Greystone Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Andrew",
+  "ownerLastName": "Kryk",
+  "mailingAddress": "6304 Mandarin Dr",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-faa99eba1428e4ea7a542ce3deb1f812daf6c0e2",
+  "tags": "absentee,bored-investor,high-equity",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "2716 Ironside Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Carlos",
+  "ownerLastName": "Vargas",
+  "mailingAddress": "2661 Seashore Dr",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89128",
+  "addressHash": "HA7-128d6d40c716856565d16349f4274ee56aa49ec9",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

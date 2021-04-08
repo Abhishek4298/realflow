@@ -1,0 +1,15 @@
+{
+  "address": "3913 Azure Ln",
+  "city": "Addison",
+  "state": "TX",
+  "zipCode": "75001",
+  "ownerFirstName": "Joe",
+  "ownerLastName": "Evans",
+  "mailingAddress": "3913 Azure Ln",
+  "mailingCity": "Addison",
+  "mailingState": "TX",
+  "mailingZipCode": "75001",
+  "addressHash": "HA7-a714593287d5407e3e9580e10712af5ce0135c36",
+  "tags": "free-clear",
+  "ownertype": "NONE"
+}

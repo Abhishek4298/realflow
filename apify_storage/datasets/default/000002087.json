@@ -1,0 +1,15 @@
+{
+  "address": "6625 Nevada Classic Cir",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Smith Family Trust",
+  "ownerLastName": "",
+  "mailingAddress": "6145 Wittig Ave",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89131",
+  "addressHash": "HA7-e6c66ed2a154c0d949830dfdbf0f2c1d0bf72001",
+  "tags": "absentee,foreclosure,high-equity",
+  "ownertype": "TRUST"
+}

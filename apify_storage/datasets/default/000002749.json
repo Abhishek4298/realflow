@@ -1,0 +1,15 @@
+{
+  "address": "2909 Gentilly Ln",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "John",
+  "ownerLastName": "Needham",
+  "mailingAddress": "3508 Flinthead Dr",
+  "mailingCity": "North Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89084",
+  "addressHash": "HA7-ba3d2472baef3623d6bca37a25b01a002140d91f",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

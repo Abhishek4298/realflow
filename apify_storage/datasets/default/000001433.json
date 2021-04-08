@@ -1,0 +1,15 @@
+{
+  "address": "1701 Goodrich Cir",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "My",
+  "ownerLastName": "Lam",
+  "mailingAddress": "2955 Towers Ln",
+  "mailingCity": "San Jose",
+  "mailingState": "CA",
+  "mailingZipCode": "95121",
+  "addressHash": "HA7-6401329d857385efe86f83fc70404639732ae85a",
+  "tags": "absentee,bored-investor,high-equity",
+  "ownertype": "NONE"
+}

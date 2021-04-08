@@ -1,0 +1,15 @@
+{
+  "address": "5116 Santo Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Ping",
+  "ownerLastName": "Jiang",
+  "mailingAddress": "Po Box 48",
+  "mailingCity": "Palo Alto",
+  "mailingState": "CA",
+  "mailingZipCode": "94304",
+  "addressHash": "HA7-b3d69950c606bf0e28b6d6fcfb12dfea39b602e6",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

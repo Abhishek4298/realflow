@@ -1,0 +1,15 @@
+{
+  "address": "6235 Guadalupe Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Victor",
+  "ownerLastName": "Perez",
+  "mailingAddress": "4048 E Cleveland Ave",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89104",
+  "addressHash": "HA7-8cc1dd225d27e3a162129c99c4e4bd1ae9cebfbf",
+  "tags": "absentee,ai-high",
+  "ownertype": "NONE"
+}

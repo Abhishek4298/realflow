@@ -1,0 +1,15 @@
+{
+  "address": "5217 Pebble Beach Blvd",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Jose",
+  "ownerLastName": "Aguilar",
+  "mailingAddress": "5217 Pebble Beach Blvd",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-81d3ed3b7679c9a540bfc72de938b5efa5cbbbe9",
+  "tags": "free-clear,potentially-inherited",
+  "ownertype": "NONE"
+}

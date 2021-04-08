@@ -1,0 +1,15 @@
+{
+  "address": "5008 Starfinder Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Randall",
+  "ownerLastName": "Wilson",
+  "mailingAddress": "7817 Evident Ct",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89131",
+  "addressHash": "HA7-605569aba0a7baae116414db94727857c5d240d8",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

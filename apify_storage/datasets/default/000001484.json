@@ -1,0 +1,15 @@
+{
+  "address": "1204 Winwood St",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Jenery",
+  "ownerLastName": "Guion",
+  "mailingAddress": "1204 Winwood St",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-7d878af0ed9bc3c51067fda2d6e4cc70f893c656",
+  "tags": "vacancy",
+  "ownertype": "NONE"
+}

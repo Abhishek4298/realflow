@@ -1,0 +1,15 @@
+{
+  "address": "2124 San Simeon St",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Raymond",
+  "ownerLastName": "Chiu",
+  "mailingAddress": "243 W Live Oak Ave",
+  "mailingCity": "Arcadia",
+  "mailingState": "CA",
+  "mailingZipCode": "91007",
+  "addressHash": "HA7-c3a0e81c704b53ffd97eab9382f223159c96cf27",
+  "tags": "absentee,free-clear",
+  "ownertype": "NONE"
+}

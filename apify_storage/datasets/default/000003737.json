@@ -1,0 +1,15 @@
+{
+  "address": "4212 Coran Ln",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Robert",
+  "ownerLastName": "Schlegel",
+  "mailingAddress": "5695 Gilbert Ln",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89130",
+  "addressHash": "HA7-fe3e31aae1366dc5611b7cebe318e0547aa2e30d",
+  "tags": "absentee,bored-investor,high-equity",
+  "ownertype": "NONE"
+}

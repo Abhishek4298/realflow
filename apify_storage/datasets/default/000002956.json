@@ -1,0 +1,15 @@
+{
+  "address": "6228 Carl Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Mariano",
+  "ownerLastName": "Virgen",
+  "mailingAddress": "6228 Carl Ave",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-909302f29c6cce7d79c82622bf398e99b344276e",
+  "tags": "potentially-inherited",
+  "ownertype": "NONE"
+}

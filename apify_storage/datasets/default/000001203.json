@@ -1,0 +1,15 @@
+{
+  "address": "2801 N Rainbow Blvd Apt 263",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Steven",
+  "ownerLastName": "Marshall",
+  "mailingAddress": "2350 E Kellogg Rd",
+  "mailingCity": "Pahrump",
+  "mailingState": "NV",
+  "mailingZipCode": "89048",
+  "addressHash": "HA7-bd6761d8e6e094be147e2ef6610a48408853060d",
+  "tags": "absentee,free-clear,ai-high",
+  "ownertype": "NONE"
+}

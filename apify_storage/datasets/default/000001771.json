@@ -1,0 +1,15 @@
+{
+  "address": "1208 Claim Jumper Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Lopez",
+  "ownerLastName": "",
+  "mailingAddress": "1208 Claim Jumper Dr",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-cfe0177a2fdae4bf54205a88c5b49b30f5e2041b",
+  "tags": "potentially-inherited",
+  "ownertype": "NONE"
+}

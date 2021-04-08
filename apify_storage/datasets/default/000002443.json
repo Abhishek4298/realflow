@@ -1,0 +1,15 @@
+{
+  "address": "2429 Charteroak St",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "James",
+  "ownerLastName": "Strange",
+  "mailingAddress": "Po Box 370445",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89137",
+  "addressHash": "HA7-f7b116af0834f9fa6f6957118c73f91a16238ce6",
+  "tags": "absentee,bored-investor",
+  "ownertype": "NONE"
+}

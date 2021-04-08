@@ -1,0 +1,15 @@
+{
+  "address": "3741 Camden Ln",
+  "city": "Addison",
+  "state": "TX",
+  "zipCode": "75001",
+  "ownerFirstName": "Mary",
+  "ownerLastName": "Hawkins",
+  "mailingAddress": "3741 Camden Ln",
+  "mailingCity": "Addison",
+  "mailingState": "TX",
+  "mailingZipCode": "75001",
+  "addressHash": "HA7-5e4988fcadbbfc442eec6b1723e9503e820d6e89",
+  "tags": "low-equity",
+  "ownertype": "NONE"
+}

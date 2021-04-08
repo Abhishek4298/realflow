@@ -1,0 +1,15 @@
+{
+  "address": "3916 Azure Ln",
+  "city": "Addison",
+  "state": "TX",
+  "zipCode": "75001",
+  "ownerFirstName": "David",
+  "ownerLastName": "Johnson",
+  "mailingAddress": "3916 Azure Ln",
+  "mailingCity": "Addison",
+  "mailingState": "TX",
+  "mailingZipCode": "75001",
+  "addressHash": "HA7-46d6999eea455637822c5a2824adfad9d55885ad",
+  "tags": "low-equity",
+  "ownertype": "NONE"
+}

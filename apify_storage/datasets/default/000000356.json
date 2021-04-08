@@ -1,0 +1,15 @@
+{
+  "address": "2141 Jeanne Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Carol",
+  "ownerLastName": "Blaine",
+  "mailingAddress": "7545 Copper Island St",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89131",
+  "addressHash": "HA7-3a4b4d21f4ce5f38e0a08c486f2bfa370d2e640e",
+  "tags": "absentee,bored-investor",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "6160 Carl Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Angel",
+  "ownerLastName": "Lazcano",
+  "mailingAddress": "228 Roland Wiley Rd",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89145",
+  "addressHash": "HA7-6b703591342d6fd3cf79199b47fc3657b8715207",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

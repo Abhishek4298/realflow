@@ -1,0 +1,15 @@
+{
+  "address": "1328 N Jones Blvd",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Eleazar",
+  "ownerLastName": "Lopez",
+  "mailingAddress": "1328 N Jones Blvd",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-2fb85ce6f2adbd15ee621112478bcb5c0653a837",
+  "tags": "foreclosure",
+  "ownertype": "NONE"
+}

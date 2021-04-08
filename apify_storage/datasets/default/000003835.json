@@ -1,0 +1,15 @@
+{
+  "address": "5021 Carmen Blvd",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Gilberto",
+  "ownerLastName": "Monge",
+  "mailingAddress": "5828 Halfmoon Way",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-b1b20d00bf9f83cda6bb845c0f297ebaf162598d",
+  "tags": "absentee,free-clear",
+  "ownertype": "NONE"
+}

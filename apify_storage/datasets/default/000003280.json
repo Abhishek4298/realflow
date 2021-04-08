@@ -1,0 +1,15 @@
+{
+  "address": "1537 Canyon Rose Way",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Juan",
+  "ownerLastName": "Orozco",
+  "mailingAddress": "135 Mulligan Way",
+  "mailingCity": "Battle Mountain",
+  "mailingState": "NV",
+  "mailingZipCode": "89820",
+  "addressHash": "HA7-205b19f1a614a17a60594a0f5680cc5c4092cb40",
+  "tags": "absentee,high-equity,ai-high",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "1852 Ann Greta Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Mary",
+  "ownerLastName": "Baylis",
+  "mailingAddress": "1956 Vista Malaga St Unit 103",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89106",
+  "addressHash": "HA7-ec78b3e6f59e734ec9b1ae733c26ff1b93950765",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

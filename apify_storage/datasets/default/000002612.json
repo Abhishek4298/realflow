@@ -1,0 +1,15 @@
+{
+  "address": "3105 Albatross Cir",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "James",
+  "ownerLastName": "Oskilanec",
+  "mailingAddress": "3209 Cambridge Hollows Ct",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89135",
+  "addressHash": "HA7-86942c2143711b68a60ff0bc44d08f4a66e4a407",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

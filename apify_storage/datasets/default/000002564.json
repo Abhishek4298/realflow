@@ -1,0 +1,15 @@
+{
+  "address": "2216 Silver Pine Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Gerald",
+  "ownerLastName": "Murray",
+  "mailingAddress": "7771 Pleasant Slopes Ct",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89131",
+  "addressHash": "HA7-3f5b9748c2a2a85f85c52ad8892c1cf246ea1135",
+  "tags": "absentee,foreclosure",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "912 N Jones Blvd",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Carlos",
+  "ownerLastName": "Perez",
+  "mailingAddress": "8921 Venetia St",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89123",
+  "addressHash": "HA7-42ad0aa8633beabda90c1fdda5b87b97bc4a9194",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

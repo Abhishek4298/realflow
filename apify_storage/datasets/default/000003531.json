@@ -1,0 +1,15 @@
+{
+  "address": "1321 Pocono Way",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Nancy",
+  "ownerLastName": "Barry",
+  "mailingAddress": "1321 Pocono Way",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-54a2d7ab52c755209232c659550c930bb6c1a392",
+  "tags": "high-equity,potentially-inherited",
+  "ownertype": "NONE"
+}

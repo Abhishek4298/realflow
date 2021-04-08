@@ -1,0 +1,15 @@
+{
+  "address": "5901 Vegas Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Christopher",
+  "ownerLastName": "Gramly",
+  "mailingAddress": "5416 Aegean Way",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89149",
+  "addressHash": "HA7-8c8981a04b65ec543d2fc1d73dff5d72bea79f31",
+  "tags": "absentee,free-clear",
+  "ownertype": "NONE"
+}

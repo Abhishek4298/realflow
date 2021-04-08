@@ -1,0 +1,15 @@
+{
+  "address": "14816 Surveyor Blvd",
+  "city": "Addison",
+  "state": "TX",
+  "zipCode": "75001",
+  "ownerFirstName": "Kelley",
+  "ownerLastName": "Wismer",
+  "mailingAddress": "3441 Hanover St",
+  "mailingCity": "Dallas",
+  "mailingState": "TX",
+  "mailingZipCode": "75225",
+  "addressHash": "HA7-ba2569c6de392aea71811adf4ae2d27346e8715c",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

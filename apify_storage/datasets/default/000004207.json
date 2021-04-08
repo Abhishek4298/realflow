@@ -1,0 +1,15 @@
+{
+  "address": "4001 Castle Cove Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Vaughn",
+  "ownerLastName": "Allen",
+  "mailingAddress": "515 E 6Th St",
+  "mailingCity": "Los Angeles",
+  "mailingState": "CA",
+  "mailingZipCode": "90021",
+  "addressHash": "HA7-78b27cbf548da5fcb54b42062a720278a21c4182",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "5513 Deodar Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Joe",
+  "ownerLastName": "Bueno",
+  "mailingAddress": "5513 Deodar Dr",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-d29c36ddc80708fd21018955f0dfa3fe3da46607",
+  "tags": "foreclosure,low-equity",
+  "ownertype": "NONE"
+}

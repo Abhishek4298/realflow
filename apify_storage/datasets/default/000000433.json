@@ -1,0 +1,15 @@
+{
+  "address": "2342 Jack Pine Way",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Devin",
+  "ownerLastName": "Jurva",
+  "mailingAddress": "226 Black Eagle Ave",
+  "mailingCity": "Henderson",
+  "mailingState": "NV",
+  "mailingZipCode": "89002",
+  "addressHash": "HA7-59181d6ed3c7bdae8f2b579ebd76f1ed18f65e43",
+  "tags": "absentee,ai-high",
+  "ownertype": "NONE"
+}

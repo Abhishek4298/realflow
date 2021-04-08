@@ -1,0 +1,15 @@
+{
+  "address": "1220 Greenway Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Allen & Hines Trust",
+  "ownerLastName": "",
+  "mailingAddress": "1303 Riverside Dr",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89106",
+  "addressHash": "HA7-98cc4f804ed5ac8512e5be7d96c602f00f20ec08",
+  "tags": "absentee,bored-investor,high-equity",
+  "ownertype": "TRUST"
+}

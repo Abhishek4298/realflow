@@ -1,0 +1,15 @@
+{
+  "address": "3906 Azure Ln",
+  "city": "Addison",
+  "state": "TX",
+  "zipCode": "75001",
+  "ownerFirstName": "Schmuel",
+  "ownerLastName": "Buskin",
+  "mailingAddress": "3906 Azure Ln",
+  "mailingCity": "Addison",
+  "mailingState": "TX",
+  "mailingZipCode": "75001",
+  "addressHash": "HA7-5afe0f39ba87754bdccc8bedb8f131943e19f850",
+  "tags": "free-clear",
+  "ownertype": "NONE"
+}

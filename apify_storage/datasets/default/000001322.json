@@ -1,0 +1,15 @@
+{
+  "address": "1401 N Michael Way Apt 133",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Frank",
+  "ownerLastName": "Paganucci",
+  "mailingAddress": "1401 N Michael Way Apt 133G",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-83ef8d485324eddf604858f438ea7a17690b5bce",
+  "tags": "absentee,bored-investor",
+  "ownertype": "NONE"
+}

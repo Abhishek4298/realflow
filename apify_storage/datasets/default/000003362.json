@@ -1,0 +1,15 @@
+{
+  "address": "4405 Mark Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Jose",
+  "ownerLastName": "Hernandez",
+  "mailingAddress": "415 Columbia Way",
+  "mailingCity": "Bowling Green",
+  "mailingState": "KY",
+  "mailingZipCode": "42101",
+  "addressHash": "HA7-9f7c925927edfe7d013c8c7f903221e5b92d2bc6",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

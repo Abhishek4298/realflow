@@ -1,0 +1,15 @@
+{
+  "address": "1933 Ann Greta Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Alexander",
+  "ownerLastName": "Oliver",
+  "mailingAddress": "1933 Ann Greta Dr",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-a431c70823d8f4bb4f9e2e14291459e60a421640",
+  "tags": "potentially-inherited",
+  "ownertype": "NONE"
+}

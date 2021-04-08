@@ -1,0 +1,17 @@
+{
+    "name": "my-actor",
+    "version": "0.0.1",
+    "dependencies": {
+        "apify": "^0.21.0",
+        "axios": "^0.21.0",
+        "form-data": "^3.0.0",
+        "geolib": "^3.3.1",
+        "lodash": "^4.17.20",
+        "puppeteer": "^5.4.1",
+        "node-fetch": "^2.6.1"
+    },
+    "scripts": {
+        "start": "node main.js"
+    },
+    "author": "Me!"
+}

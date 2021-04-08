@@ -1,0 +1,15 @@
+{
+  "address": "2801 N Rainbow Blvd Apt 139",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Jane",
+  "ownerLastName": "Hyun",
+  "mailingAddress": "5578 S Lansing Ct",
+  "mailingCity": "Englewood",
+  "mailingState": "CO",
+  "mailingZipCode": "80111",
+  "addressHash": "HA7-eaf4c2af8b40f9e78f4c0600ded4495dbdd6c703",
+  "tags": "absentee,free-clear",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "1212 Saylor Way",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "John",
+  "ownerLastName": "Diiorio",
+  "mailingAddress": "1212 Saylor Way",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-420a8a3b13a2aa3b1073bcbf4450090d4674542d",
+  "tags": "foreclosure,high-equity",
+  "ownertype": "NONE"
+}

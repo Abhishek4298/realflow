@@ -1,0 +1,15 @@
+{
+  "address": "5305 Magenta Ct",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Jack",
+  "ownerLastName": "Jones",
+  "mailingAddress": "115 Dillon Dr",
+  "mailingCity": "Hendersonville",
+  "mailingState": "TN",
+  "mailingZipCode": "37075",
+  "addressHash": "HA7-333123a0f0d269d96e6609efd6002b2ef39036ad",
+  "tags": "absentee,bored-investor,high-equity",
+  "ownertype": "NONE"
+}

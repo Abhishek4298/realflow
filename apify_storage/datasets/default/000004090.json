@@ -1,0 +1,15 @@
+{
+  "address": "6917 Welsh Cir",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Anthony",
+  "ownerLastName": "Paul",
+  "mailingAddress": "6917 Welsh Cir",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-559d9890a6275042d7c7865cbb0f571c95269160",
+  "tags": "potentially-inherited",
+  "ownertype": "NONE"
+}

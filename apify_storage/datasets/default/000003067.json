@@ -1,0 +1,15 @@
+{
+  "address": "2451 N Rainbow Blvd Unit 1115",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Debra",
+  "ownerLastName": "Johnson",
+  "mailingAddress": "2451 N Rainbow Blvd # Ut1115",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-afe5f1753a73ebb57fa893ba61d04ca23b0febdf",
+  "tags": "absentee,ai-high",
+  "ownertype": "NONE"
+}

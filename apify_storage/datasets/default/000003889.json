@@ -1,0 +1,15 @@
+{
+  "address": "5005 Carmen Blvd",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Janet",
+  "ownerLastName": "Minero",
+  "mailingAddress": "Po Box 5556",
+  "mailingCity": "San Clemente",
+  "mailingState": "CA",
+  "mailingZipCode": "92674",
+  "addressHash": "HA7-47985ab7e1d0f109a0cd52925812371a8daf17b1",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

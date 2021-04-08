@@ -1,0 +1,15 @@
+{
+  "address": "3740 Park Pl",
+  "city": "Addison",
+  "state": "TX",
+  "zipCode": "75001",
+  "ownerFirstName": "Thomas",
+  "ownerLastName": "Dettmer",
+  "mailingAddress": "3740 Park Pl",
+  "mailingCity": "Addison",
+  "mailingState": "TX",
+  "mailingZipCode": "75001",
+  "addressHash": "HA7-5fa6bbdd3a68d3ed4a80a750745cc7c0954fd1d2",
+  "tags": "high-equity",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "5225 Pebble Beach Blvd",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Alan",
+  "ownerLastName": "Ryan",
+  "mailingAddress": "5225 Pebble Beach Blvd",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-e45730beb1e02cc5eb0d07059d7756c1e34d4367",
+  "tags": "free-clear,vacancy",
+  "ownertype": "NONE"
+}

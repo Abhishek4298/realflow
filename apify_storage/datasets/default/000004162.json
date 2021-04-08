@@ -1,0 +1,15 @@
+{
+  "address": "6920 Tulsa Cir",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "John",
+  "ownerLastName": "Renfro",
+  "mailingAddress": "Po Box 81356",
+  "mailingCity": "Fairbanks",
+  "mailingState": "AK",
+  "mailingZipCode": "99708",
+  "addressHash": "HA7-66fc99114ed13f4e92015a5259e43623d133f1b5",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

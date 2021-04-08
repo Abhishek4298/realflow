@@ -1,0 +1,15 @@
+{
+  "address": "5604 Mare Way",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Johnny",
+  "ownerLastName": "Bilavarn",
+  "mailingAddress": "3743 Lone Mesa Dr",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89147",
+  "addressHash": "HA7-923b8fc768e3dc24aa4c568723124ece2b8b7a04",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

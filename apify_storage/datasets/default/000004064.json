@@ -1,0 +1,15 @@
+{
+  "address": "4128 Pleasant Rd",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Bianca",
+  "ownerLastName": "Castillo",
+  "mailingAddress": "3208 Asher Ln",
+  "mailingCity": "North Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89032",
+  "addressHash": "HA7-d6b9832392b9ea04992e57e61eb51e962a6f1cbb",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

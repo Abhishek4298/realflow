@@ -1,0 +1,15 @@
+{
+  "address": "5805 Jerry Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Dong",
+  "ownerLastName": "Li",
+  "mailingAddress": "560 E Tam O Shanter St",
+  "mailingCity": "Ontario",
+  "mailingState": "CA",
+  "mailingZipCode": "91761",
+  "addressHash": "HA7-5a61ff397f58a09fe1c29a8c800b1ccdb3c40479",
+  "tags": "absentee,foreclosure,free-clear",
+  "ownertype": "NONE"
+}

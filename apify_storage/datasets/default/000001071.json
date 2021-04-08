@@ -1,0 +1,15 @@
+{
+  "address": "5829 Vegas Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Patricia",
+  "ownerLastName": "Lilly",
+  "mailingAddress": "8804 Crescent Ridge Ln",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89134",
+  "addressHash": "HA7-b980daf96d45f0d1d2b9d27031ecd1c2a0bcb19f",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

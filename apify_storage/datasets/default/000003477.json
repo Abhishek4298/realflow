@@ -1,0 +1,15 @@
+{
+  "address": "2220 Valley Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Kelly",
+  "ownerLastName": "Lange",
+  "mailingAddress": "2220 Valley Dr",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-bd0c2d2d1060b3b1121f30582632d8080d4e9f97",
+  "tags": "pre-foreclosure",
+  "ownertype": "NONE"
+}

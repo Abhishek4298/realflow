@@ -1,0 +1,15 @@
+{
+  "address": "3600 Quetonia St Unit 204",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Mark",
+  "ownerLastName": "Obom",
+  "mailingAddress": "2900 Grand Ave Apt 344",
+  "mailingCity": "Everett",
+  "mailingState": "WA",
+  "mailingZipCode": "98201",
+  "addressHash": "HA7-b3be8147dc956a703c08050b4fd6432bb5d3a2d6",
+  "tags": "absentee,free-clear,vacancy",
+  "ownertype": "NONE"
+}

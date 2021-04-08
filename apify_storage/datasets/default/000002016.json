@@ -1,0 +1,15 @@
+{
+  "address": "6933 Welsh Cir",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Adam",
+  "ownerLastName": "Burns",
+  "mailingAddress": "1300 Silver Prospect Dr",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-e73452b38be9c29565ff750b8819b22b8f39ff35",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

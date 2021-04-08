@@ -1,0 +1,15 @@
+{
+  "address": "6800 Accent Ct",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Peter",
+  "ownerLastName": "Yung",
+  "mailingAddress": "31401 Marlin Ct",
+  "mailingCity": "Union City",
+  "mailingState": "CA",
+  "mailingZipCode": "94587",
+  "addressHash": "HA7-23ba7d8550538a2b2e937acdf58b2a131f6b3560",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "4304 Beth Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Jesus",
+  "ownerLastName": "Ramirez",
+  "mailingAddress": "3710 Newton Falls St",
+  "mailingCity": "North Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89032",
+  "addressHash": "HA7-7b11276ef1c3096c3b35ac253e0c11f8d4d29f8c",
+  "tags": "absentee,free-clear",
+  "ownertype": "NONE"
+}

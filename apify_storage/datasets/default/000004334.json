@@ -1,0 +1,15 @@
+{
+  "address": "1009 Magnolia Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Jorge",
+  "ownerLastName": "Sanchez",
+  "mailingAddress": "1009 Magnolia Ave",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-f8dadc0a497d54129a235b831b80c3e86730bcb7",
+  "tags": "high-equity,potentially-inherited",
+  "ownertype": "NONE"
+}

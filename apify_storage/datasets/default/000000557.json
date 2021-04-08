@@ -1,0 +1,15 @@
+{
+  "address": "2117 Chertsey Dr Unit C",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Walter",
+  "ownerLastName": "Jones",
+  "mailingAddress": "320 City Center Dr",
+  "mailingCity": "Rohnert Park",
+  "mailingState": "CA",
+  "mailingZipCode": "94928",
+  "addressHash": "HA7-9bb6c74ec01bd652bce2d8b7b16dd115292922b3",
+  "tags": "absentee,bored-investor",
+  "ownertype": "NONE"
+}

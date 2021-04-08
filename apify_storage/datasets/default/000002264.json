@@ -1,0 +1,15 @@
+{
+  "address": "1000 Artesia Way",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Richard",
+  "ownerLastName": "Kimble",
+  "mailingAddress": "515 Wheaties Way",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89110",
+  "addressHash": "HA7-47bd1f983a05c4ab8714d469ec606d8889975737",
+  "tags": "absentee,bored-investor,potentially-inherited",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "1109 Orange Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Jose",
+  "ownerLastName": "Cervantes",
+  "mailingAddress": "2117 Jeanne Dr",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-15e4caea2b5340e5ccb5ecba928bd3eca78bed6d",
+  "tags": "absentee,bored-investor",
+  "ownertype": "NONE"
+}

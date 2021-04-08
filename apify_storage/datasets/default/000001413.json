@@ -1,0 +1,15 @@
+{
+  "address": "1312 Saylor Way",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Rick",
+  "ownerLastName": "Maldonado",
+  "mailingAddress": "1312 Saylor Way",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-360cf27e71f06ea88bbbfac2ca65ce2c02ed351e",
+  "tags": "free-clear,potentially-inherited",
+  "ownertype": "NONE"
+}

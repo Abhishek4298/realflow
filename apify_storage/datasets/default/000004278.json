@@ -1,0 +1,15 @@
+{
+  "address": "909 Date St",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Johnathan",
+  "ownerLastName": "Carmona",
+  "mailingAddress": "2771 San Domingo Ln",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89115",
+  "addressHash": "HA7-17493e638230435a44c9cef8340fb527f14c93fd",
+  "tags": "absentee,low-equity",
+  "ownertype": "NONE"
+}

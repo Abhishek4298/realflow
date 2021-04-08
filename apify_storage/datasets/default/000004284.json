@@ -1,0 +1,15 @@
+{
+  "address": "1212 Silver Lake Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Jose",
+  "ownerLastName": "Esparza",
+  "mailingAddress": "1306 Riverside Dr",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89106",
+  "addressHash": "HA7-571b3c58f8982cd60a94fa638707a98793766c5a",
+  "tags": "absentee,bored-investor,free-clear",
+  "ownertype": "NONE"
+}

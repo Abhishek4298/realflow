@@ -1,0 +1,15 @@
+{
+  "address": "2733 Cheshire Ct",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Centeno",
+  "ownerLastName": "Perez",
+  "mailingAddress": "2733 Cheshire Ct",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-788a1c10585b9aacbf1fd97213adadb9258070cb",
+  "tags": "vacancy",
+  "ownertype": "NONE"
+}

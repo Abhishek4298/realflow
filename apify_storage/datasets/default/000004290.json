@@ -1,0 +1,15 @@
+{
+  "address": "1212 Purple Sage Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Stephanie",
+  "ownerLastName": "Nguyen",
+  "mailingAddress": "102 Cadence",
+  "mailingCity": "Irvine",
+  "mailingState": "CA",
+  "mailingZipCode": "92618",
+  "addressHash": "HA7-ab4358cc81ca5143b40cdaf17d6a6145bb989323",
+  "tags": "absentee,free-clear,vacancy",
+  "ownertype": "NONE"
+}

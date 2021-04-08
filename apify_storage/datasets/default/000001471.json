@@ -1,0 +1,15 @@
+{
+  "address": "1212 N Jones Blvd",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Christopher",
+  "ownerLastName": "Czekaj",
+  "mailingAddress": "1212 N Jones Blvd Apt A",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-08fba155295ee6f662073a142649c34c48f34638",
+  "tags": "absentee,low-equity",
+  "ownertype": "NONE"
+}

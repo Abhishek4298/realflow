@@ -1,0 +1,15 @@
+{
+  "address": "3408 Turquoise Rd",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Saul",
+  "ownerLastName": "Chavez",
+  "mailingAddress": "1029 Villa Cir",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-f653dd3077327947ee353d6ad7d258b6a2fe03a1",
+  "tags": "absentee,bored-investor,low-equity,ai-high",
+  "ownertype": "NONE"
+}

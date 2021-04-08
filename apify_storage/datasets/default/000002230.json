@@ -1,0 +1,15 @@
+{
+  "address": "4400 Narit Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Dong",
+  "ownerLastName": "Dai",
+  "mailingAddress": "8953 Crystal Lagoon Ct",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89147",
+  "addressHash": "HA7-c584f5251de472beff54c601c5964ab3ca117366",
+  "tags": "absentee,foreclosure",
+  "ownertype": "NONE"
+}

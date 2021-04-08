@@ -1,0 +1,15 @@
+{
+  "address": "3829 Marshall Cir",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Ty",
+  "ownerLastName": "Joeckle",
+  "mailingAddress": "3829 Marshall Cir",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-1af1ef4db9f113f657abe8b1bc9d2e5929afc09d",
+  "tags": "potentially-inherited",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "3344 Winterhaven St Unit 101",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "John",
+  "ownerLastName": "King",
+  "mailingAddress": "5268 N Annapolis Ave",
+  "mailingCity": "Fresno",
+  "mailingState": "CA",
+  "mailingZipCode": "93723",
+  "addressHash": "HA7-985bc0a62133492faccd3413477110e8836c1460",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

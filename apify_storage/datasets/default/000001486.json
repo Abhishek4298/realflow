@@ -1,0 +1,15 @@
+{
+  "address": "6305 Spanish Moss Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Juan",
+  "ownerLastName": "Salazar",
+  "mailingAddress": "12729 E Rancho Estates Pl",
+  "mailingCity": "Rancho Cucamonga",
+  "mailingState": "CA",
+  "mailingZipCode": "91739",
+  "addressHash": "HA7-86a276c38b331f898cbbcf240f1968a261824596",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

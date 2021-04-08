@@ -1,0 +1,15 @@
+{
+  "address": "2451 N Rainbow Blvd Unit 2019",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Lewis",
+  "ownerLastName": "Stevens",
+  "mailingAddress": "3775 Lupe Ct",
+  "mailingCity": "Chino",
+  "mailingState": "CA",
+  "mailingZipCode": "91710",
+  "addressHash": "HA7-43fcdfacc0ed89b6bd5dd415b05b758bc1d07d9b",
+  "tags": "absentee,bored-investor,vacancy",
+  "ownertype": "NONE"
+}

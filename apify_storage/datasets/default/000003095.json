@@ -1,0 +1,15 @@
+{
+  "address": "2105 Havelina St",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Gloria",
+  "ownerLastName": "Labra",
+  "mailingAddress": "730 Avenue C Spc 2",
+  "mailingCity": "Ely",
+  "mailingState": "NV",
+  "mailingZipCode": "89301",
+  "addressHash": "HA7-5fe302837aa020bfac6ce10f55f813108e991c2c",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

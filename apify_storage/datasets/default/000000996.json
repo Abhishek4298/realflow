@@ -1,0 +1,15 @@
+{
+  "address": "1616 Wildwood Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Patridge Family Trust",
+  "ownerLastName": "",
+  "mailingAddress": "8120 Sweet Dreams Ct",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89131",
+  "addressHash": "HA7-d427d03d5b9670956ccd9c738186e44cf1166881",
+  "tags": "absentee,bored-investor",
+  "ownertype": "TRUST"
+}

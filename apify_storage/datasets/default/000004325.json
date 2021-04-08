@@ -1,0 +1,15 @@
+{
+  "address": "1001 Vernon Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Ana",
+  "ownerLastName": "Lares",
+  "mailingAddress": "1001 Vernon Ave",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-7f90dd6a0add1c8346dc61284df10ad809ddf0b8",
+  "tags": "foreclosure,high-equity",
+  "ownertype": "NONE"
+}

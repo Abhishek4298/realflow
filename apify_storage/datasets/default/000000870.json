@@ -1,0 +1,15 @@
+{
+  "address": "6404 Starcrest Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Jimmy",
+  "ownerLastName": "Tan",
+  "mailingAddress": "8361 Hazelwood Cir",
+  "mailingCity": "Westminster",
+  "mailingState": "CA",
+  "mailingZipCode": "92683",
+  "addressHash": "HA7-bb4c3975c85edc1ce988dc61b597a704e4da64ba",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "1001 Greystone Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Rolando",
+  "ownerLastName": "Vicente",
+  "mailingAddress": "5598 Rollins St",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89118",
+  "addressHash": "HA7-f209407e3ea19c0599263edafedf854aa699c514",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

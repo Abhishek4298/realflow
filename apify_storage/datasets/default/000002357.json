@@ -1,0 +1,15 @@
+{
+  "address": "2205 La Sombra St",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Nanette",
+  "ownerLastName": "Cook",
+  "mailingAddress": "2205 La Sombra St",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-b8f1c3fae8c3ef0291ff02586deae9bbbbe645b8",
+  "tags": "potentially-inherited",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "1113 Winwood St",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Maria",
+  "ownerLastName": "Quiroz",
+  "mailingAddress": "1113 Winwood St",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-8d9c334b0debad7309eb89006fb9403dfa992eaa",
+  "tags": "foreclosure",
+  "ownertype": "NONE"
+}

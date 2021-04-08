@@ -1,0 +1,15 @@
+{
+  "address": "4300 Fox Point Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Michelle",
+  "ownerLastName": "Ferreyra",
+  "mailingAddress": "7937 Terrace Rock Way",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89128",
+  "addressHash": "HA7-52cd4a9f097d3e0b7d178f9688777a53fdcf0e3e",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

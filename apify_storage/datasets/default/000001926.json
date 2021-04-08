@@ -1,0 +1,15 @@
+{
+  "address": "3900 N Torrey Pines Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "David",
+  "ownerLastName": "Bennett",
+  "mailingAddress": "5089 Long View Dr",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89120",
+  "addressHash": "HA7-ad0d549b14205349e3631190f6c9d71c704237f5",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

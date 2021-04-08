@@ -1,0 +1,15 @@
+{
+  "address": "1205 Greenway Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Myron",
+  "ownerLastName": "Kwong",
+  "mailingAddress": "8910 W Tropicana Ave Ste 3",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89147",
+  "addressHash": "HA7-f6497e0f8e816414ae98d52264d1734a7405d251",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

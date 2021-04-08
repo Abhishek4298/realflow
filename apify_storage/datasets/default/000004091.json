@@ -1,0 +1,15 @@
+{
+  "address": "6665 Gatehouse Ln",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Daniel",
+  "ownerLastName": "Gomez",
+  "mailingAddress": "2471 N Magnolia Ave",
+  "mailingCity": "Rialto",
+  "mailingState": "CA",
+  "mailingZipCode": "92377",
+  "addressHash": "HA7-c8f6a492c770720148b0712e8d515d08b05e54f4",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

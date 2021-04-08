@@ -1,0 +1,15 @@
+{
+  "address": "1300 Woodbridge Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Ma",
+  "ownerLastName": "Garcia",
+  "mailingAddress": "1105 Magnolia Ave",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-ce324c1afe02ef3ab9a15bf0e8f33be3656a3dee",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "3500 Trilogy Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Lee",
+  "ownerLastName": "Gibson",
+  "mailingAddress": "2730 Belcastro St",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89117",
+  "addressHash": "HA7-2b12024a703b6095d6dd8b68dbede1bc51dfc195",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "4023 Azure Ln",
+  "city": "Addison",
+  "state": "TX",
+  "zipCode": "75001",
+  "ownerFirstName": "Fred",
+  "ownerLastName": "Berthold",
+  "mailingAddress": "4023 Azure Ln",
+  "mailingCity": "Addison",
+  "mailingState": "TX",
+  "mailingZipCode": "75001",
+  "addressHash": "HA7-550c925c9ca3cc4855a9840c37e3038cfac7486f",
+  "tags": "high-equity",
+  "ownertype": "NONE"
+}

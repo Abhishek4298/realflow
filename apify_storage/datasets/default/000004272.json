@@ -1,0 +1,15 @@
+{
+  "address": "1205 Date St",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Marco",
+  "ownerLastName": "Martinez",
+  "mailingAddress": "1205 Date St",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-01cdad7246687ab697c0925407f3311963dcb6e0",
+  "tags": "potentially-inherited",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "5048 Starfinder Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Johnny",
+  "ownerLastName": "Chang",
+  "mailingAddress": "2098 Depot Rd",
+  "mailingCity": "Hayward",
+  "mailingState": "CA",
+  "mailingZipCode": "94545",
+  "addressHash": "HA7-a8a4380a50924d3a7a2b6dffdf9a6700d2a4e7db",
+  "tags": "absentee,bored-investor",
+  "ownertype": "NONE"
+}

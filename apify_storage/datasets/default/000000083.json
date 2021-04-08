@@ -1,0 +1,15 @@
+{
+  "address": "4132 Juliard Dr",
+  "city": "Addison",
+  "state": "TX",
+  "zipCode": "75001",
+  "ownerFirstName": "John",
+  "ownerLastName": "Fundis",
+  "mailingAddress": "4132 Juliard Dr",
+  "mailingCity": "Addison",
+  "mailingState": "TX",
+  "mailingZipCode": "75001",
+  "addressHash": "HA7-a549794ed21b40c4ebec0d47c67603a80db84f9c",
+  "tags": "high-equity",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "2322 El Cerrito Cir",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "William",
+  "ownerLastName": "Huffman",
+  "mailingAddress": "Po Box 6721",
+  "mailingCity": "Huntington Beach",
+  "mailingState": "CA",
+  "mailingZipCode": "92615",
+  "addressHash": "HA7-333922d57940d03e72db018c2a71a5c3e9eb585b",
+  "tags": "absentee,bored-investor,high-equity",
+  "ownertype": "NONE"
+}

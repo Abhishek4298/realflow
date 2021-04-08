@@ -1,0 +1,15 @@
+{
+  "address": "6321 New Wood Ln",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Leon",
+  "ownerLastName": "Wright",
+  "mailingAddress": "666 Belvedere Dr",
+  "mailingCity": "Benicia",
+  "mailingState": "CA",
+  "mailingZipCode": "94510",
+  "addressHash": "HA7-6bc01450f6074b872dcf53a7f96db3317e0d4d3d",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

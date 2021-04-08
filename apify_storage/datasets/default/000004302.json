@@ -1,0 +1,15 @@
+{
+  "address": "909 Hazard Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Sharon",
+  "ownerLastName": "Spencer",
+  "mailingAddress": "909 Hazard Ave",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-818f51e1b3261a448696b92cbac49f25a5ff9c8d",
+  "tags": "potentially-inherited",
+  "ownertype": "NONE"
+}

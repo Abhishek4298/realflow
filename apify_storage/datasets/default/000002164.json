@@ -1,0 +1,15 @@
+{
+  "address": "4148 Woodgreen Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "John",
+  "ownerLastName": "Jackson",
+  "mailingAddress": "931 Azure Heights Pl",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89110",
+  "addressHash": "HA7-150eeee2d8a25cd7f0a8b8a40917b91941458675",
+  "tags": "absentee,bored-investor,high-equity",
+  "ownertype": "NONE"
+}

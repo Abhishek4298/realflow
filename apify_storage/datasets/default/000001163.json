@@ -1,0 +1,15 @@
+{
+  "address": "4420 Mark Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Amber",
+  "ownerLastName": "Frederick",
+  "mailingAddress": "Po Box 750053",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89136",
+  "addressHash": "HA7-c8b5867764aef8443e7c8d7c02b7dbdd0d40e93b",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

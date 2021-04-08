@@ -1,0 +1,15 @@
+{
+  "address": "5604 Eugene Ave",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "John",
+  "ownerLastName": "Bonaventura",
+  "mailingAddress": "5604 Eugene Ave",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-27192cd403ef76edb0753476f01dde161bc02fc7",
+  "tags": "potentially-inherited",
+  "ownertype": "NONE"
+}

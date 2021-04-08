@@ -1,0 +1,15 @@
+{
+  "address": "3305 Danehurst Ct",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Betty",
+  "ownerLastName": "Brown",
+  "mailingAddress": "3523 Moreno Ct",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89129",
+  "addressHash": "HA7-24e4130c73011a311f5c78d7dffd0c926b9ce5c0",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

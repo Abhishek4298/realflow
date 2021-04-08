@@ -1,0 +1,15 @@
+{
+  "address": "1721 Neptune Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Omar",
+  "ownerLastName": "Ramon",
+  "mailingAddress": "2158 Pine Crest Dr",
+  "mailingCity": "Corona",
+  "mailingState": "CA",
+  "mailingZipCode": "92882",
+  "addressHash": "HA7-6d726deb40686cb64e794566cc46700ef1a8611c",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

@@ -1,0 +1,15 @@
+{
+  "address": "1516 Valley Crest St",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Anthony",
+  "ownerLastName": "Borja",
+  "mailingAddress": "1516 Valley Crest St",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-30341d3c3a110df6671d48a44aa4a1e17d8d6244",
+  "tags": "potentially-inherited",
+  "ownertype": "NONE"
+}

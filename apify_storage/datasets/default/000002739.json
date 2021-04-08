@@ -1,0 +1,15 @@
+{
+  "address": "2031 Chertsey Dr Unit D",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Tony",
+  "ownerLastName": "Rushing",
+  "mailingAddress": "2031 Chertsey Dr Unit D",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-790ee3cf92c8cc42bec7f5a48ea831edf08635d3",
+  "tags": "vacancy",
+  "ownertype": "NONE"
+}

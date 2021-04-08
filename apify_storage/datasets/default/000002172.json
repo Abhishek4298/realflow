@@ -1,0 +1,15 @@
+{
+  "address": "4304 Carnation Ln",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Maria",
+  "ownerLastName": "Landaverde",
+  "mailingAddress": "3808 W Pico Blvd Apt 5",
+  "mailingCity": "Los Angeles",
+  "mailingState": "CA",
+  "mailingZipCode": "90019",
+  "addressHash": "HA7-b6faa0ec7ff5f7d658f2eb316075238c6fca5b29",
+  "tags": "absentee,high-equity",
+  "ownertype": "NONE"
+}

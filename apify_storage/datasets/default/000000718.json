@@ -1,0 +1,15 @@
+{
+  "address": "5828 Robin Ln",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Patricia",
+  "ownerLastName": "Fowler",
+  "mailingAddress": "3721 Plum Blossom Ct",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89129",
+  "addressHash": "HA7-90933d23791cf6db76a9fca4458ad449675d875e",
+  "tags": "absentee,bored-investor,high-equity",
+  "ownertype": "NONE"
+}

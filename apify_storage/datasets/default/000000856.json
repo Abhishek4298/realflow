@@ -1,0 +1,15 @@
+{
+  "address": "2700 N Rainbow Blvd Apt 2009",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Jack",
+  "ownerLastName": "Goldberg",
+  "mailingAddress": "1229 Via Landeta",
+  "mailingCity": "Palos Verdes Estates",
+  "mailingState": "CA",
+  "mailingZipCode": "90274",
+  "addressHash": "HA7-ada6e618eec5d35eec7ece7a892341a064ca19c1",
+  "tags": "absentee,bored-investor,free-clear",
+  "ownertype": "NONE"
+}

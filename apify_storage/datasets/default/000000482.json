@@ -1,0 +1,15 @@
+{
+  "address": "5712 Nyton Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Jacob",
+  "ownerLastName": "Perez",
+  "mailingAddress": "5300 Stacey Ave",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-fa91730a0f6eb4ea496f26130fd11f5eb7f3970c",
+  "tags": "absentee",
+  "ownertype": "NONE"
+}

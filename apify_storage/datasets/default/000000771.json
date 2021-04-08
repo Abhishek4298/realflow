@@ -1,0 +1,15 @@
+{
+  "address": "5817 Mary Way",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Paul",
+  "ownerLastName": "Bailey",
+  "mailingAddress": "5817 Mary Way",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-e307cb839c0dfebf2fc3c520486094b6e90c8a5c",
+  "tags": "foreclosure,high-equity,potentially-inherited",
+  "ownertype": "NONE"
+}

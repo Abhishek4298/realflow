@@ -1,0 +1,15 @@
+{
+  "address": "2012 Valley Dr",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "Jose",
+  "ownerLastName": "Chapa",
+  "mailingAddress": "605 Triest Ct # 8",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89110",
+  "addressHash": "HA7-e83251d1c1751dc6ba96471f2dd8530f8c2f4f2d",
+  "tags": "absentee,bored-investor,low-equity",
+  "ownertype": "NONE"
+}

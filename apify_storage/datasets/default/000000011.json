@@ -1,0 +1,15 @@
+{
+  "address": "1 Oak St",
+  "city": "Addison",
+  "state": "TX",
+  "zipCode": "75001",
+  "ownerFirstName": "Althea",
+  "ownerLastName": "Mason",
+  "mailingAddress": "4116 Runyon Rd",
+  "mailingCity": "Addison",
+  "mailingState": "TX",
+  "mailingZipCode": "75001",
+  "addressHash": "HA7-67f3ea1c90b799890b3476450c4fa5ced061ba73",
+  "tags": "absentee,low-equity",
+  "ownertype": "NONE"
+}

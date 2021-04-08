@@ -1,0 +1,15 @@
+{
+  "address": "2111 Hussium Hills St Unit 108",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "John",
+  "ownerLastName": "Kielty",
+  "mailingAddress": "1287 Wolf Run Rd",
+  "mailingCity": "Reno",
+  "mailingState": "NV",
+  "mailingZipCode": "89511",
+  "addressHash": "HA7-bddb50dd5bda39a9b5b3729407b4eb4abf005aa9",
+  "tags": "absentee,bored-investor,free-clear",
+  "ownertype": "NONE"
+}

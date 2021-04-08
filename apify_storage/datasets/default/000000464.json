@@ -1,0 +1,15 @@
+{
+  "address": "2128 Petersham Ct Unit C",
+  "city": "Las Vegas",
+  "state": "NV",
+  "zipCode": "89108",
+  "ownerFirstName": "John",
+  "ownerLastName": "Powell",
+  "mailingAddress": "2128 Petersham Ct Unit C",
+  "mailingCity": "Las Vegas",
+  "mailingState": "NV",
+  "mailingZipCode": "89108",
+  "addressHash": "HA7-96006eee82633dd7e7016834c45ad91fe3c9b476",
+  "tags": "free-clear,potentially-inherited",
+  "ownertype": "NONE"
+}
